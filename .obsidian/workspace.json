@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1cf7fc41482eee11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personajes/Jön Pargid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personajes/Selene Ventalis.md",
+                "file": "Personajes/Jön Pargid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personajes/Selene Ventalis.md",
+                "file": "Personajes/Jön Pargid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personajes/Selene Ventalis.md"
+                "file": "Personajes/Jön Pargid.md"
               }
             }
           },
@@ -165,10 +177,13 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "76de38642a3aa302",
+  "active": "1cf7fc41482eee11",
   "lastOpenFiles": [
-    "Personajes/Jön Pargid.md",
     "Personajes/Selene Ventalis.md",
+    "Personajes/Jön Pargid.md",
+    "Campaña.md",
+    "Lugares/Vértice Arcano.md",
+    "Términos Nuevos.md",
     "Imagenes/Leonardo_Diffusion_Gang_leader_woman_fantastic_world_overcast_0.jpg",
     "Imagenes/Leonardo_Diffusion_High_elf_with_fire_red_hair_in_a_dress_of_b_1.jpg",
     "Imagenes/Leonardo_Diffusion_Gang_leader_woman_fantastic_world_overcast_0 1.jpg",
@@ -176,7 +191,6 @@
     "Imagenes/Leonardo_Diffusion_Imagine_a_triton_with_fins_and_gills_but_wi_0.jpg",
     "Imagenes/Leonardo_Diffusion_Visualize_an_excessively_strong_dwarf_woman_1.jpg",
     "Imagenes/Leonardo_Diffusion_Deep_within_an_ancient_enchanted_forest_a_h_1.jpg",
-    "Campaña.md",
     "Imagenes",
     "Sitios",
     "Personajes",
