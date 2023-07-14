@@ -2,7 +2,7 @@ Rostro
 	![[Leonardo_Diffusion_Atop_a_frozen_mountain_an_imposing_goliath_2.jpg]]
 
 Casa: <u>Pargid</u>
-Localización: 
+Localización: Este de Varys
 
 Descripción:
 <p align="justify"><font color="#8db3e2">"Una figura humanoide colosal se cierne entre el tribunal, con un aspecto sombrío que hace que hasta el ambiente quede helado por el miedo, se sienta el gran Jön Parid de la casa Parid.</font>
