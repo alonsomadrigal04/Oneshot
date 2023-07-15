@@ -1,0 +1,1 @@
+El Vertice Arcano se creó como Conclave imprescindible del reino de Énosis. Sus miembros son o suelen ser, los miembros de las casas más veneradas e importantes del reino. Estos contribuyentes, tienden a ser las figuras mas importantes y repre
