@@ -5,6 +5,6 @@ Casa: <u>Ventalis</u>
 Localización: Tromos
 
 Descripción:
-Denves,  no se suele exponer ante el [[Vértice Arcano]] si no es estrictamente necesario. Solamente aparece cuando la magnitud de la amenaza es extremadamente grabe. Su manejo de las armas es envidiable para muchos maestros, nadie sabe de donde aprendió toda su destreza y agudeza. 
+Con discreción y reserva, Denves se mantiene alejado del escrutinio del [[Vértice Arcano]], solo emergiendo cuando la gravedad de la amenaza es ineludible. Su destreza con las armas es objeto de envidia para numerosos maestros, y nadie parece conocer el origen de su agudeza y habilidades sin igual.
 
-Asimismo, también se preocupa lo mínimo por su casa, suele delegar la mayoria de los trabajos a sus pupilos en armas, por ser en los que más confia. Pero siempre suele tener actitud de lider. Además, al estar en unas tierras tan pacificas, la gente lo venedera por mantener la paz durante tantos pasos.
+A pesar de su desinterés aparente por los asuntos de su casa, delegando gran parte de las tareas en sus leales pupilos en armas, Denves siempre ejerce su liderazgo con actitud firme. En estas tierras pacíficas, la gente lo venera por ser el garante de la paz a lo largo de tantos pasos.
