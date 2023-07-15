@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaña.md",
+                "file": "Personajes/Hut Virendel.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaña.md",
+                "file": "Personajes/Hut Virendel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaña.md",
+                "file": "Personajes/Hut Virendel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaña.md"
+                "file": "Personajes/Hut Virendel.md"
               }
             }
           },
@@ -179,6 +179,7 @@
   },
   "active": "1cf7fc41482eee11",
   "lastOpenFiles": [
+    "Campaña.md",
     "Personajes/Hut Virendel.md",
     "Personajes/Selene Ventalis.md",
     "Personajes/Jön Pargid.md",
@@ -189,7 +190,6 @@
     "Imagenes/Leonardo_Diffusion_Visualize_an_excessively_strong_dwarf_woman_1.jpg",
     "Imagenes/Leonardo_Diffusion_Gang_leader_woman_fantastic_world_overcast_0.jpg",
     "Imagenes/Leonardo_Diffusion_Atop_a_frozen_mountain_an_imposing_goliath_2.jpg",
-    "Campaña.md",
     "Lugares/Vértice Arcano.md",
     "Términos Nuevos.md",
     "Imagenes/Leonardo_Diffusion_Gang_leader_woman_fantastic_world_overcast_0 1.jpg",
