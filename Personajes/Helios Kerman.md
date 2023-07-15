@@ -12,4 +12,4 @@ Si adoptamos el Yin y el Yang como una descripción canónica de su actitud, Hel
 A Helios no le importa que la maldad se entremezcle con sus acciones si eso significa sacrificar algo en aras del bien común, su casa o su gente. Está dispuesto a desatar incluso desastres naturales o males mayores si eso es necesario para alcanzar sus objetivos.
 
 Actitud:
-	Apesar de ser naturaleza extraña, es uno de los unicos Tieflings de color carne humana. Suele ser honesto con las cosas que dice, ademas es direco y no se anda con rodeos. 
+	A pesar de su naturaleza peculiar, Helios se destaca como uno de los pocos Tieflings con tonalidad carnal humana. Suele ser sincero en sus palabras y posee una franqueza directa, sin rodeos. Sin embargo, el [[Vértice Arcano]] suele pasar por alto sus propuestas y sus arrebatos de ira.

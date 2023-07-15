@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personajes/Helios Kerman.md",
+                "file": "Lugares/Vértice Arcano.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personajes/Helios Kerman.md",
+                "file": "Lugares/Vértice Arcano.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personajes/Helios Kerman.md",
+                "file": "Lugares/Vértice Arcano.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personajes/Helios Kerman.md"
+                "file": "Lugares/Vértice Arcano.md"
               }
             }
           },
@@ -177,10 +177,10 @@
   },
   "active": "76de38642a3aa302",
   "lastOpenFiles": [
+    "Personajes/Helios Kerman.md",
     "Imagenes/Elf_1.png",
     "SuperAlon-Commission (1).png",
     "Personajes/Denves Ventalis.md",
-    "Personajes/Helios Kerman.md",
     "Personajes/Hut Nordvindr.md",
     "Imagenes/Default_Karl_Urban_as_a_nobleman_from_dungeons_and_dragons_big_0_034efaee-a96d-43c1-82f6-7fcbe046852d_1.jpg",
     "Personajes/Selene Ventalis.md",
@@ -197,7 +197,6 @@
     "Lugares/Vértice Arcano.md",
     "Términos Nuevos.md",
     "Imagenes/Leonardo_Diffusion_Gang_leader_woman_fantastic_world_overcast_0 1.jpg",
-    "Imagenes/Leonardo_Diffusion_Deep_within_an_ancient_enchanted_forest_a_h_1.jpg",
     "Imagenes",
     "Sitios",
     "Personajes",
