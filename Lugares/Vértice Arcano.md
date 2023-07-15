@@ -2,4 +2,4 @@ El Vértice Arcano se creó como Conclave imprescindible del reino de Énosis. S
 
 El Vértice, recibe ese nombre pues su localización es incierta para muchos, solamente saben este lugar, los miembros de las casas, los más cercanos a los alto mandos de las casas y sus creadores, ahora ya extintos. 
 
-Es sin duda un Lugar importante para el mundo, en esta "Alta mesa" se discuten temas a niveles de catástrofe mundial: desastres naturales, efectos magicos permanentes, tierras prohibidas, amenazas biológicas, extincion de especies
+Es sin duda un Lugar importante para el mundo, en esta "Alta mesa" se discuten temas a niveles de catástrofe mundial: desastres naturales, efectos mágicos permanentes, tierras prohibidas, amenazas biológicas, extinción de especies
