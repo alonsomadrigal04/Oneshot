@@ -5,4 +5,4 @@ Casa: Eldrunir
 Localización: Este de <u>Dynami</u>
 
 Descripción: 
-Hermosa donde las halla, Runa es un aire fresco que se respira en el [[Vértice Arcano]], pues de sus pilares, es la más afable de los miembros sagrados de las casas. 
+Hermosa donde las halla, Runa es un aire fresco que se respira en el [[Vértice Arcano]], pues de sus pilares, es la más afable de los miembros sagrados del conclave. Además, es la que más se entrega a su trabajo de líder de una casa noble. Pues a diferencia de sus compañeros de mesa, ella no delega sus labores a terceros, 
