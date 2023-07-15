@@ -11,20 +11,20 @@
             "id": "99f88fdd063d39a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "76de38642a3aa302",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Lugares/Vértice Arcano.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "76de38642a3aa302",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
             }
           },
           {
@@ -37,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,8 +174,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "76de38642a3aa302",
+  "active": "99f88fdd063d39a2",
   "lastOpenFiles": [
+    "Imagenes/Leonardo_Diffusion_Imagine_a_triton_with_fins_and_gills_but_wi_0.jpg",
+    "Lugares/Vértice Arcano.md",
     "Personajes/Helios Kerman.md",
     "Imagenes/Elf_1.png",
     "SuperAlon-Commission (1).png",
@@ -186,7 +187,6 @@
     "Personajes/Selene Ventalis.md",
     "Personajes/Runa Eldrunir.md",
     "Personajes/Jön Pargid.md",
-    "Imagenes/Leonardo_Diffusion_Imagine_a_triton_with_fins_and_gills_but_wi_0.jpg",
     "Imagenes/Leonardo_Diffusion_Visualize_an_excessively_strong_dwarf_woman_1.jpg",
     "Campaña.md",
     "Imagenes/Leonardo_Diffusion_Imagine_a_satyr_with_a_small_youthful_body_1.jpg",
@@ -194,7 +194,6 @@
     "Imagenes/Leonardo_Diffusion_High_elf_with_fire_red_hair_in_a_dress_of_b_1.jpg",
     "Imagenes/Leonardo_Diffusion_Gang_leader_woman_fantastic_world_overcast_0.jpg",
     "Imagenes/Leonardo_Diffusion_Atop_a_frozen_mountain_an_imposing_goliath_2.jpg",
-    "Lugares/Vértice Arcano.md",
     "Términos Nuevos.md",
     "Imagenes/Leonardo_Diffusion_Gang_leader_woman_fantastic_world_overcast_0 1.jpg",
     "Imagenes",
