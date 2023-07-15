@@ -5,4 +5,4 @@ Casa: <u>Ventalis</u>
 Lozalización: Tromos
 
 Descripcion:
-Denves,  no suele ser muy vistoso
+Denves,  no se suele exponer ante el [[Ve]]
