@@ -7,4 +7,4 @@ Localización: Tromos
 Descripción:
 A pesar de su amenazante aspecto, es muy agradable. Hut es el Sátiro que lleva la casa mas pacifica de Tromos y esto se justifica con su jovial sentido del humor y su actitud de líder. Es sin duda la criatura más carismática de el [[Vértice Arcano]]. 
 
-No es el druida mas experimentado de todo el mundo de Énosis, pero llegó a ser el lider de una casa, no por linaje de sangre. De hecho es el unico de el [[Vértice Arcano]] que a conseguido su titulo de lider de la casa por nombramiento del anterior. Su mejor
+En el vasto mundo de Énosis, no es el druida más versado que jamás haya pisado suelo sagrado, pero sorprendentemente se alzó como líder de una casa sin tener sangre noble que lo respalde. De hecho, es el único miembro del sagrado [[Vértice Arcano]] que ha logrado obtener su título de líder gracias al nombramiento del predecesor, su mejor amigo, una hazaña que pocos podrían igualar.
