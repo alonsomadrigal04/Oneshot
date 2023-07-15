@@ -1,1 +1,3 @@
-El Vertice Arcano se creó como Conclave imprescindible del reino de Énosis. Sus miembros son o suelen ser, los miembros de las casas más veneradas e importantes del reino. Estos contribuyentes, tienden a ser las figuras mas importantes y repre
+El Vértice Arcano se creó como Conclave imprescindible del reino de Énosis. Sus miembros son o suelen ser, los miembros de las casas más veneradas e importantes del reino. Estos contribuyentes, tienden a ser las figuras mas importantes y representativas del poder en el mundo, desde grandes magos capaces de crear lo inimaginable con sus manos, hasta los más grandes y duros guerreros barbaros. 
+
+El Vértice, recibe ese nombre pues su localización es incierta para muchos, solamente saben este lugar, los miembros delos mas cercanos a los alto mandos de las casas y sus creadores ahora ya extintos. 
