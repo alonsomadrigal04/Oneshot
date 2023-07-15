@@ -5,12 +5,7 @@ Casa: <u>Pargid</u>
 Localización: Este de Varys
 
 Descripción:
-<p align="justify">Una figura humanoide colosal se cierne entre el tribunal, con un aspecto sombrío que hace que hasta el ambiente quede helado por el miedo, se sienta el gran Jön Parid de la casa Parid.</p>
-
-<p align="justify">Perteneciente a la raza de los Goliat su aspecto y su actitud hacen que se le infunda respeto encanto se siente su presencia. Se dice, que aquellos que se ciernen a su alrededor quedan mudos y sin habla, ya sea por su imponente aspecto o por su dominio de la fuerza bruta.</p>
-
-En el [[Vértice Arcano]] solamente habla cuando es necesario. Y es por eso que solamente lo tienen en cuenta cuando un gran peligro acecha el mundo. 
-
+<p align="justify">Imponente y temible, una figura colosal y sombría emerge en medio del tribunal, congelando el ambiente en un gélido manto de temor. Es el magnánimo Jön Parid, líder indiscutible de la casa Parid.</p><p align="justify">Miembro de la raza de los Goliat, su mera presencia infunde respeto y encanto. Se cuenta que aquellos que se encuentran en su cercanía quedan sin palabras, ya sea por su imponente apariencia o por su dominio de la fuerza bruta.</p> En el [[Vértice Arcano]], Jön Parid solo habla cuando es absolutamente necesario. Su relevancia se hace patente únicamente cuando un peligro de magnitud amenaza al mundo.
 
 
 Actitud;

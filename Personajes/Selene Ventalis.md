@@ -10,4 +10,4 @@ Descripción:
 La gente del [[Vértice Arcano]] la respeta como una de las mejores guerreras del reino"
 
 Actitud:
-Le gusta hablar, pero siempre tiene un humor demasiado acido como para ser captado po runa persona normal. Suele mostrarse antipática con la gente y suele ser impulsiva. Solamente muestra respeto hacia [[]] su antiguo tutor. 
+	Le gusta hablar, pero siempre tiene un humor demasiado acido como para ser captado po runa persona normal. Suele mostrarse antipática con la gente y suele ser impulsiva. Solamente muestra respeto hacia [[]] su antiguo tutor. 
