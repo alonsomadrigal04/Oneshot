@@ -10,7 +10,7 @@ Este sitio, sin duda alguna, se erige como un punto cardinal en la narrativa del
 - [[Hut Nordvindr]]
 - [[Jön Pargid]]
 - [[Runa Eldrunir]]
-- [[Selene Ventalis]]
+- [[Selene Galdaris]]
 
 
 ### <font color="#ffc000">Información Clasificada</font>
