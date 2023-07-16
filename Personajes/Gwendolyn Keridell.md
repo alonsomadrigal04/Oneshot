@@ -11,4 +11,4 @@ Gwendolyn, o simplemente Gwen, como la llaman aquellos más cercanos, es una ena
 En lo que respecta a la guerra, Gwen es una de las mejores en su campo. Ha comandado numerosas batallas, y en todas ellas ha salido victoriosa. Es una estratega militar formidable y su habilidad táctica es ampliamente reconocida. Nadie sabe a ciencia cierta cuántos años tiene, pero todos estiman que supera los 90 años de edad. Su experiencia y conocimiento son invaluables para el Vértice Arcano.
 
 Actitud:
-	Ruda y peculiar. No se a
+	Ruda y peculiar. No se anda con titubeos ni formalidades, si te tiene que insultar lo hace. Tiene ideas claras y pensamientos distintivos.
