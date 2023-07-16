@@ -1,7 +1,7 @@
 imagen:
 	![[Leonardo_Diffusion_High_elf_with_fire_red_hair_in_a_dress_of_b_1.jpg]]
 
-Casa: Eldrunir
+Casa: <u>Eldrunir</u>
 Localización: Este de <u>Dynami</u>
 
 Descripción: 
