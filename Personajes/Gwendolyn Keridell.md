@@ -3,3 +3,4 @@ Imagen:
 
 Descripción:
 	Gwendolyn o Gwen como le llaman sus mas cercanos, es una Enana con mucho carácter, siempre tiene aires de cabreada, pero a pesar de su aspecto terco y agridulce, siempre te trata con amabilidad, solo que nunca suele sonreír. Ciertamente es apreciado por todos los miembros del [[Vértice Arcano]]
+	En términos de guerra es una de las mejores en su puesto. Debido a que solamente ha perdido una guerra en todos los pasos que ha ido viviendo. Nadie sabe su edad, pero todos estiman que tiene mas de 150 años
