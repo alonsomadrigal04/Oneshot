@@ -11,6 +11,9 @@ Este sitio, sin duda alguna, se erige como un punto cardinal en la narrativa del
 - [[Jön Pargid]]
 - [[Runa Eldrunir]]
 - [[Selene Galdaris]]
+- [[Gwendolyn Keridell]]
+- [[Ka Mach Eriskal]]
+- [[Muruth Erikel]]
 
 
 ### <font color="#ffc000">Información Clasificada</font>
