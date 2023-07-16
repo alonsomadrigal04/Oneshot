@@ -11,9 +11,11 @@
             "id": "99f88fdd063d39a2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Imagenes/Default_Visualize_an_excessively_strong_dwarf_woman_defying_al_1_e2a09ace-b563-4bfd-922d-7c21aa2251cb_1.jpg"
+                "file": "Personajes/Gwendolyn.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -101,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imagenes/Default_Visualize_an_excessively_strong_dwarf_woman_defying_al_1_e2a09ace-b563-4bfd-922d-7c21aa2251cb_1.jpg",
+                "file": "Personajes/Gwendolyn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imagenes/Default_Visualize_an_excessively_strong_dwarf_woman_defying_al_1_e2a09ace-b563-4bfd-922d-7c21aa2251cb_1.jpg",
+                "file": "Personajes/Gwendolyn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imagenes/Default_Visualize_an_excessively_strong_dwarf_woman_defying_al_1_e2a09ace-b563-4bfd-922d-7c21aa2251cb_1.jpg"
+                "file": "Personajes/Gwendolyn.md"
               }
             }
           },
@@ -174,10 +176,11 @@
   },
   "active": "99f88fdd063d39a2",
   "lastOpenFiles": [
+    "Imagenes/Default_Visualize_an_excessively_strong_dwarf_woman_defying_al_1_e2a09ace-b563-4bfd-922d-7c21aa2251cb_1.jpg",
+    "Personajes/Gwendolyn.md",
     "Imagenes/Elf_1.png",
     "Imagenes/Leonardo_Diffusion_Atop_a_frozen_mountain_an_imposing_goliath_2.jpg",
     "Imagenes/Leonardo_Diffusion_Gang_leader_woman_fantastic_world_overcast_0.jpg",
-    "Imagenes/Default_Visualize_an_excessively_strong_dwarf_woman_defying_al_1_e2a09ace-b563-4bfd-922d-7c21aa2251cb_1.jpg",
     "Imagenes/Default_Karl_Urban_as_a_nobleman_from_dungeons_and_dragons_big_0_034efaee-a96d-43c1-82f6-7fcbe046852d_1.jpg",
     "Imagenes/Leonardo_Diffusion_Imagine_a_triton_with_fins_and_gills_but_wi_0.jpg",
     "Personajes/Hut Nordvindr.md",
@@ -194,7 +197,6 @@
     "Campaña.md",
     "Imagenes/Leonardo_Diffusion_Imagine_a_satyr_with_a_small_youthful_body_1.jpg",
     "Imagenes/Leonardo_Diffusion_Imagine_a_satyr_with_a_small_youthful_body_1.jpg.opdownload",
-    "Imagenes/Leonardo_Diffusion_High_elf_with_fire_red_hair_in_a_dress_of_b_1.jpg",
     "Términos Nuevos.md",
     "Imagenes",
     "Sitios",
