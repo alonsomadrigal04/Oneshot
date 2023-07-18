@@ -2,4 +2,4 @@
 Os encontrabais demasiados pasos en una zona poco frecuentada por individuos. Escondiéndoos en humedas cuevas, moviéndoos por la fría y oscura noche de las montañas grisáceas.
 No queriais que nadie os descubirera, sois los ultimos Goblins que existen en el reino. Despues de que ocurriera el Pacto, muchas criaturas se vieron en peligro de extinción por el reclutamiento del dragon leviatan a sus filas. Los Goblins, aparte de no ser demasiado numerosos, se negaban a tener un jefe mayor que el suyo. Por ello, esta raza poco a poco se fue extinguiendo por culpa de la represion que sufrieron por este poderoso y legendario dragón. 
 
-Después de meditar lo suficiente, vuestro ultimo grupo"
+Después de meditar lo suficiente, la esperanza goblin, vosotros, decidisteis que es hora de dar la cara como criaturas. Los años pasan y la gente olvidaba que eran  los goblins. Conseguir esta mision, y ganarse un renombre. Haria que los Goblins volvieran a estar presentes en la mente de muchos ciudadanos de enosis, Y asi volver a la epoca de respeto por esta raza minoritaria."
