@@ -1,5 +1,5 @@
 Imagen:
-	![[Elf_1.png]]
+	![[Elf_1 1.png]]
 
 Casa: <u>Erikel</u>
 Localización: Islas de la Ascensión
