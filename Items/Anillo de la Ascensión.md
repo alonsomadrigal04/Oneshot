@@ -1,1 +1,1 @@
-Protä Electricity: 
+As long as you have the ascension ring equipped, you can use one of its charges. Add 2d6 Lightning Damage to your next successful melee attack roll. 
