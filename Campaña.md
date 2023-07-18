@@ -15,7 +15,7 @@
 ---
 Como <font color="#00b050">Goblins</font> han robado durante mucho tiempo y han conseguido cantidades de tesoros ingentes.
 
-|  1d4   |     |     |     |     |
-| --- | --- | --- | --- | --- |
-|     |     |     |     |     |
+|   4d10  |     |     |
+| --- | --- | --- |
+|     |     |     |
 
