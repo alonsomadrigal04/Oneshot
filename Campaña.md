@@ -15,7 +15,8 @@
 ---
 Como <font color="#00b050">Goblins</font> han robado durante mucho tiempo y han conseguido cantidades de tesoros ingentes.
 
-| 4d10 |     | Resultado |
-| ---- | --- | --------- |
-| +22  |     |           |
+| 4d10 (Dexterity) | Resultado |
+| ---------------- | --------- |
+| +22              |           |
+|                  |           |
 
