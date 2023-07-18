@@ -104,8 +104,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,10 +202,10 @@
   },
   "active": "a8704d162e877d02",
   "lastOpenFiles": [
-    "Items/Blade of Medusa.md",
-    "Items/Axe of Sorrow.md",
     "Items/Items.md",
     "Items/Anillo de la Ascensión.md",
+    "Items/Axe of Sorrow.md",
+    "Items/Blade of Medusa.md",
     "Campaña.md",
     "Items/Candle of the Deep.md",
     "Items",
