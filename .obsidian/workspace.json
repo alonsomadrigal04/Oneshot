@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Candle of the Deep.md",
+                "file": "Campaña.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Candle of the Deep.md",
+                "file": "Campaña.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Candle of the Deep.md",
+                "file": "Campaña.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Candle of the Deep.md"
+                "file": "Campaña.md"
               }
             }
           },
@@ -198,8 +198,8 @@
   },
   "active": "610812003de7751f",
   "lastOpenFiles": [
-    "Campaña.md",
     "Items/Candle of the Deep.md",
+    "Campaña.md",
     "Items",
     "Imagenes/SuperAlon-Commission (1).png",
     "Imagenes/Elf_1 1.png",

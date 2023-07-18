@@ -22,7 +22,7 @@ Como <font color="#00b050">Goblins</font> han robado durante mucho tiempo y han 
 
 | 4d6   (inteligencia) | Narración                                                                                                                                        | Resultado |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
-| (14 - 24)            | A pesar de su complejidad, tras tiempo de indagación, habéis aprendido a usar todos las herramientas que habeis ido descubriendo                 |           |
+| (14 - 24)            | A pesar de su complejidad, tras tiempo de indagación, habéis aprendido a usar todos las herramientas que habeis ido descubriendo                 |   2 Candle of the Deep 1 Horn of Valhalla       |
 | (0 - 13)             | No comprendéis demasiado la magia de Énosis y muchos de los artilugios que os encontrabais los desechabais sin saber muy bien de que se trataban |           |
 |                      |                                                                                                                                                  |           |
 
