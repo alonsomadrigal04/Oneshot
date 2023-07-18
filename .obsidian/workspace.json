@@ -168,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,7 +182,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "217de89784b1a596",
+  "active": "99f88fdd063d39a2",
   "lastOpenFiles": [
     "Imagenes/SuperAlon-Commission (1).png",
     "Imagenes/Elf_1 1.png",
