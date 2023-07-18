@@ -3,6 +3,6 @@ In addition, all creatures within 15 feets of the target will have to roll a 15 
 
 You only get one charge and it recharges every sunrise.
 
-Korsik's courseThis weapon is cursed, and becoming attuned to it extends the curse to you. Until the curse is broken with a [Remove Curse](http://dnd5e.wikidot.com/spell:remove-curse) spell or similar magic, you are unwilling to part with the weapon. 
+Korsik's Curse: This ring is cursed, and becoming attuned to it extends the curse to you. Until the curse is broken with a [Remove Curse](http://dnd5e.wikidot.com/spell:remove-curse) spell or similar magic, you are unwilling to part with the ring.  
 
 
