@@ -13,4 +13,9 @@
 
 ## <font color="#ffc000">PARTIDA</font>
 ---
-Como Goblins han robado durante mucho tiempo y han conseguido cantidades de 
+Como <font color="#00b050">Goblins</font> han robado durante mucho tiempo y han conseguido cantidades de tesoros ingentes.
+
+|  1d4   |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|     |     |     |     |     |
+
