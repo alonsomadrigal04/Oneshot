@@ -35,12 +35,8 @@
             "id": "a8704d162e877d02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Items.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -108,7 +104,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Items/Items.md"
-              }
+              "state": {}
             }
           },
           {
@@ -210,10 +203,10 @@
   },
   "active": "a8704d162e877d02",
   "lastOpenFiles": [
-    "Items/Items.md",
-    "Items/Anillo de la Ascensión.md",
     "Items/Blade of Medusa.md",
     "Items/Axe of Sorrow.md",
+    "Items/Items.md",
+    "Items/Anillo de la Ascensión.md",
     "Campaña.md",
     "Items/Candle of the Deep.md",
     "Items",
