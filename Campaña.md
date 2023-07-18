@@ -15,8 +15,9 @@
 ---
 Como <font color="#00b050">Goblins</font> han robado durante mucho tiempo y han conseguido cantidades de tesoros ingentes.
 
-| 4d10 (Dexterity) | Resultado                                                      |
-| ---------------- | -------------------------------------------------------------- |
-| (22 - 40)              | Tenéis en vuestro poder mucha cantidad de oro (24 gp cada uno) |
-| (0 - 21)                 |      No os ha ido muy bien en los robos, habeis perdido cierta pàrte de vuestra riqueza por constantes ataques de                                                           |
+| 4d10 (Dexterity) | Narración                                                                                                          |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------ |
+| (22 - 40)        | Habéis saqueado y asesinado como os enseñaron vuestros ancestros, con gran maestría y raciocinio.                                                   |
+| (0 - 21)         | No os ha ido muy bien en los robos, habéis perdido cierta parte de vuestra riqueza por constantes ataques de Ogros.  |
+|                  |                                                                                                                    |
 
