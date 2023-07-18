@@ -20,7 +20,9 @@ Como <font color="#00b050">Goblins</font> han robado durante mucho tiempo y han 
 | (22 - 40)        | Habéis saqueado y asesinado como os enseñaron vuestros ancestros, con gran maestría y raciocinio.                                                       | (34 gp) cada uno    |
 | (0 - 21)         | No os ha ido muy bien en los robos, solían venir patrullas de soldados, habéis perdido cierta parte de vuestra riqueza por constantes ataques de Ogros. | (10 gp)    cada uno |
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
+| 4d6   (inteligencia) | Narración |     |
+| -------------------- | --------- | --- |
+| (14 - 24)            |           |     |
+| (0 - 13)             |           |     |
+|                      |           |     |
 
