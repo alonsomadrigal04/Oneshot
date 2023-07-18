@@ -13,3 +13,4 @@
 
 ## <font color="#ffc000">PARTIDA</font>
 ---
+Como Goblins han robado durante mucho tiempo y han conseguido cantidades de 
