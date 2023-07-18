@@ -1,3 +1,5 @@
 "Después de haber saqueado y matado a un transeúnte que pasaba por las ostentosas y magnificas montañas de Pröta, recogisteis de su bolsa este llamado al orden. 
 Os encontrabais demasiados pasos en una zona poco frecuentada por individuos. Escondiéndoos en humedas cuevas, moviéndoos por la fría y oscura noche de las montañas grisáceas.
-No queriais que nadie os descubirera, sois los ultimos Goblins que existen en el reino. Despues "
+No queriais que nadie os descubirera, sois los ultimos Goblins que existen en el reino. Despues de que ocurriera el Pacto, muchas criaturas se vieron en peligro de extinción por el reclutamiento del dragon leviatan a sus filas. Los Goblins, aparte de no ser demasiado numerosos, se negaban a tener un jefe mayor que el suyo. Por ello, esta raza poco a poco se fue extinguiendo por culpa de la represion que sufrieron por este poderoso y legendario dragón. 
+
+Después de meditar lo suficiente, vuestro ultimo grupo"
