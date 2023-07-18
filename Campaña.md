@@ -13,11 +13,14 @@
 
 ## <font color="#ffc000">PARTIDA</font>
 ---
-Como <font color="#00b050">Goblins</font> han robado durante mucho tiempo y han conseguido cantidades de tesoros ingentes.
+Como <font color="#00b050">Goblins</font> han robado durante mucho tiempo y han conseguido cantidades de tesoros ingentes:
 
-| 4d10 (Dexterity) | Narración                                                                                                          |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------ |
-| (22 - 40)        | Habéis saqueado y asesinado como os enseñaron vuestros ancestros, con gran maestría y raciocinio.                                                   |
-| (0 - 21)         | No os ha ido muy bien en los robos, habéis perdido cierta parte de vuestra riqueza por constantes ataques de Ogros.  |
-|                  |                                                                                                                    |
+| 4d10 (Dexterity) | Narración                                                                                                                                               | Resultado           |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| (22 - 40)        | Habéis saqueado y asesinado como os enseñaron vuestros ancestros, con gran maestría y raciocinio.                                                       | (34 gp) cada uno    |
+| (0 - 21)         | No os ha ido muy bien en los robos, solían venir patrullas de soldados, habéis perdido cierta parte de vuestra riqueza por constantes ataques de Ogros. | (10 gp)    cada uno |
+
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
 
