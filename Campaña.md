@@ -18,5 +18,5 @@ Como <font color="#00b050">Goblins</font> han robado durante mucho tiempo y han 
 | 4d10 (Dexterity) | Resultado                                                      |
 | ---------------- | -------------------------------------------------------------- |
 | (22 - 40)              | Tenéis en vuestro poder mucha cantidad de oro (24 gp cada uno) |
-| (0 - 21)                 |      No os ha ido muy bien en los robos, habeis perdido cierta pàrte de vuestra riqueza por                                                           |
+| (0 - 21)                 |      No os ha ido muy bien en los robos, habeis perdido cierta pàrte de vuestra riqueza por constantes ataques de                                                           |
 
