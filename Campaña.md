@@ -1,1 +1,2 @@
-"Después de haber leído la vieja y sucia hoja de llamamiento al orden en vuestra guarida q"
+"Después de haber saqueado y matado a un transeúnte que pasaba por las ostentosas y magnificas montañas de Pröta, recogisteis de su bolsa este llamado al orden. 
+Os encontrabais demasiados pasos en una zona poco frecuentada por individuos. Escondiéndoos en cuevas y moviéndoos por la noche. "
