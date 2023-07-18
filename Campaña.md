@@ -20,10 +20,10 @@ Como <font color="#00b050">Goblins</font> han robado durante mucho tiempo y han 
 | (22 - 40)        | Habéis saqueado y asesinado como os enseñaron vuestros ancestros, con gran maestría y raciocinio.                                                       | (34 gp) cada uno    |
 | (0 - 21)         | No os ha ido muy bien en los robos, solían venir patrullas de soldados, habéis perdido cierta parte de vuestra riqueza por constantes ataques de Ogros. | (10 gp)    cada uno |
 
-| 4d6   (inteligencia) | Narración                                                                                                                                        | Resultado                               |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------- |
-| (14 - 24)            | A pesar de su complejidad, tras tiempo de indagación, habéis aprendido a usar todos las herramientas que habeis ido descubriendo                 | 2 Candle of the Deep 1 Horn of Valhalla |
-| (0 - 13)             | No comprendéis demasiado la magia de Énosis y muchos de los artilugios que os encontrabais los desechabais sin saber muy bien de que se trataban | 1 Blade of medusa  1 Axe of Sorrow      |
-|                      |                                                                                                                                                  |                                         |
+| 4d6   (inteligencia) | Narración                                                                                                                                        | Resultado                                                  |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+| (14 - 24)            | A pesar de su complejidad, tras tiempo de indagación, habéis aprendido a usar todos las herramientas que habeis ido descubriendo                 | 2 Candle of the Deep 1 Horn of Valhalla                    |
+| (0 - 13)             | No comprendéis demasiado la magia de Énosis y muchos de los artilugios que os encontrabais los desechabais sin saber muy bien de que se trataban | 1 Blade of medusa  1 Axe of Sorrow 1 Anillo de la Ascnsion |
+|                      |                                                                                                                                                  |                                                            |
 
 
