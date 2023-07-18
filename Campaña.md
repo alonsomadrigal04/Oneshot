@@ -1,2 +1,3 @@
 "Después de haber saqueado y matado a un transeúnte que pasaba por las ostentosas y magnificas montañas de Pröta, recogisteis de su bolsa este llamado al orden. 
-Os encontrabais demasiados pasos en una zona poco frecuentada por individuos. Escondiéndoos en cuevas y moviéndoos por la noche. "
+Os encontrabais demasiados pasos en una zona poco frecuentada por individuos. Escondiéndoos en humedas cuevas, moviéndoos por la fría y oscura noche de las montañas grisáceas.
+No queriais que nadie os descubirera, sois los ultimos Goblins que existen en el reino. Despues "
