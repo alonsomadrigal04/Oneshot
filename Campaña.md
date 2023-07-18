@@ -1,5 +1,6 @@
-# <font color="#ffc000">Reclutamiento</font>
+# <font color="#ffc000">MARCHA HACIA EL RECLUTAMIENTO</font>
 ---
+
 <p align="justify"><font color="#548dd4">"Tras saquear y asesinar a un transeúnte que se cruzó en vuestro camino en las esplendorosas y majestuosas montañas de Pröta, os topasteis con una misiva en su bolsa, un llamado a la acción. Os encontrabais a varias jornadas de distancia en un paraje raramente frecuentado por individuos. Ocultos en húmedas cavernas, os desplazabais en la fría y oscura noche de las montañas teñidas de gris..</font></p>
 <p align="justify"><font color="#548dd4">Erais los últimos Goblins que quedaban en el reino y no deseabais ser descubiertos. Tras el Pacto, muchas criaturas se encontraban al borde de la extinción debido al reclutamiento del temido dragón leviatán en sus filas. Los Goblins, además de ser escasos en número, se negaban a someterse a un líder mayor que ellos mismos. Por consiguiente, esta raza poco a poco fue muriendo a causa de la represión sufrida por parte de este poderoso y legendario dragón.</font></p>
 
@@ -10,4 +11,5 @@
 <p align="justify"><font color="#548dd4">La primera opción podría resultar arriesgada. ¿Qué pasaría si el reino de Énosis, en su desconcierto, os rechazaba o incluso os atacaba antes de tener la oportunidad de explicar vuestra situación? La confianza ciega en su raciocinio podía desembocar en un desenlace adverso. Por otro lado, la alternativa de llegar en silencio al reclutamiento permitiría evitar confrontaciones innecesarias y evaluar la verdadera actitud del reino hacia los Goblins antes de revelaros abiertamente.</font>
 </p>
 
-## Partida
+## <font color="#ffc000">PARTIDA</font>
+---
