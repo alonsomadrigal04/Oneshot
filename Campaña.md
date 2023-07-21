@@ -87,4 +87,4 @@ Eventos en el camino:
 ## <font color="#ffc000">LA CIUDAD</font>
 ---
 Descripción según, rutas  y Karma:
-- Fortalis; Delante de vosotros podéis oler el metálico olor del ambiente, la ciudad genera una especie de calor en su interior. Podéis escuchar desde las afueras de la ciudad como hay incesantes golpes de martillo que hacen justicia a los numerosos herreros que ocupan esta ciudad.
+- Fortalis; Delante de vosotros podéis oler el metálico olor del ambiente, la ciudad genera una especie de calor en su interior. Podéis escuchar desde las afueras de la ciudad como hay incesantes golpes de martillo que hacen justicia a los numerosos herreros que ocupan esta ciudad. Fortalis
