@@ -141,5 +141,3 @@ Karma <font color="#00b0f0">Negativo</font>:
 
 - Un joven fuerte visiona a los <font color="#00b050">Goblins</font> desde la lejanía y los sigue en todo momento, cuando el grupo se esta resguardando y/o ocultando sale a presentarse, se llama [[Uradur]], y quiere ayudarlos.
 
-### Eventos narrativos
----
