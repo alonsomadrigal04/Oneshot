@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archivos/Vax Matï.md",
+                "file": "Campaña.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archivos/Vax Matï.md",
+                "file": "Campaña.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archivos/Vax Matï.md",
+                "file": "Campaña.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archivos/Vax Matï.md"
+                "file": "Campaña.md"
               }
             }
           },
@@ -210,8 +210,8 @@
   },
   "active": "a8704d162e877d02",
   "lastOpenFiles": [
-    "Campaña.md",
     "Archivos/Vax Matï.md",
+    "Campaña.md",
     "Personajes/Ka Mach Eriskal.md",
     "Archivos/Vértice Arcano.md",
     "Archivos/Origen de las Casas.md",
