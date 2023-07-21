@@ -28,6 +28,11 @@ Como <font color="#00b050">Goblins</font> han robado durante mucho tiempo y han 
 ## DINAMICA
 En esta parte de la Aventura, tendrán un medidor de Karma, cuanto mas se acerque a la bondosidad, mas gente les ayudará en su aventura. cuanto más malos sean, mas miedo les tendrán.
 
+- Matar a alguien: +10pp
+- Amenazar a alguien: +4pp
+- Robar: +2pp
+- 
+
 ## <font color="#ffc000">BARCO</font>
 ---
 En la la parte trasera del pergamino habían unas coordenadas:
