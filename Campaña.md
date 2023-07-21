@@ -136,4 +136,8 @@ Karma <font color="#00b0f0">Negativo</font>:
 ### Eventos de resguardo
 ---
 - Una guardia irá en su camino y tienen un puente a su derecha, pero una persona les susurra que vayan dentro de su casa. Si van dentro de la casa una Duergar anciana les ayudará.
-- 
+
+- Un grupo de aventureros Se ciñen en una plaza cuadrada, parece ser que han decidido congregarse allí para escuchar la música de unos juglares que han aparecido. 
+
+- s
+### Eventos narrativos
