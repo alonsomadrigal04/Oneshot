@@ -27,4 +27,4 @@ Como <font color="#00b050">Goblins</font> han robado durante mucho tiempo y han 
 
 ## <font color="#ffc000">BARCO</font>
 ---
-"En la la parte trasera del pergamino habían unas coordenadas que habéis sabido interpretar y se encuentran en el sur de Polemos, en territorio de la casa Ventur. Tendreis que partir hacia allí, sabeis que hay barcos en "
+"En la la parte trasera del pergamino habían unas coordenadas que habéis sabido interpretar y se encuentran en el sur de Polemos, en territorio de la <u>casa Ventur</u>. Tendréis que partir hacia allí, sabéis que hay barcos en Fortalith, capital de la <u>casa Pargid</u>. Aunque también hay barcos que salen hacia allí "
