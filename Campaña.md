@@ -27,7 +27,7 @@ Como <font color="#00b050">Goblins</font> han robado durante mucho tiempo y han 
 
 ## <font color="#ffc000">BARCO</font>
 ---
-"En la la parte trasera del pergamino habían unas coordenadas:
+En la la parte trasera del pergamino habían unas coordenadas:
 
 | Tirada  | Resultado                                                                                                 |
 | ------- | --------------------------------------------------------------------------------------------------------- |
@@ -35,8 +35,14 @@ Como <font color="#00b050">Goblins</font> han robado durante mucho tiempo y han 
 | 10 - 17 | La una Runa que entiendes es "Polemos"                                                                    |
 | 1 - 9   | Para ti el pergamino no son mas que garabatos sin sentido                                                 |
 
-### Cosas que sabéis
-"Os encontráis en las montañas de Pröta en Varys. Sabéis que existen 2 casas mayores, una al este y otra al sur. Y una menor al Oeste de donde os encontráis"
+### Cosas que saben
+<font color="#245bdb">"Os encontráis en las montañas de Pröta en Varys. Sabéis que existen 2 casas mayores, una al este y otra al sur. Y una menor al Oeste de donde os encontráis"</font>
 
-- Podrán colarse o coger un barco que vaya hacía allí.
-- Podrán tomar
+- Podrán colarse o coger un barco que vaya hacía allí. 
+- Podrán tomar un barco ellos mismos.
+- Pero más allá de otros métodos de ir entre islas, no hay otro método.
+
+## <font color="#ffc000">DE CAMINO HACIA LA CIUDAD</font>
+---
+Pueden tomar tres rutas:
+- Ir hacia Pargid
