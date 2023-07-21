@@ -107,8 +107,8 @@ Descripción según, rutas  y Karma:
    Cada hogar en Erdustad posee coquetas pasarelas que conducen hacia pequeñas embarcaciones de madera o hacia los umbrales de las casas vecinas, reflejando una comunidad unida por la mar. A pesar de la apariencia algo desgastada que envuelve al lugar, su encanto radica en la diversidad que alberga en su seno. Las criaturas que danzan por sus calles son de lo más variopintas, una amalgama de seres provenientes de los misteriosos abismos marinos, como los Tritones, hasta la etérea gracia de los elfos del agua.
 
 
-Karma positivo: 
-- Los jugadores estan en busca y captura, cada vez que te encuentres con una persona tira lo siguiente:
+Karma <font color="#ff0000">positivo</font>: 
+- Los jugadores están en <font color="#ff0000"><u>busca y captura</u></font>, cada vez que te encuentres con una persona tira lo siguiente:
 
 | 1d100    | Actitud                                                                                                |
 | -------- | ------------------------------------------------------------------------------------------------------ |
@@ -116,4 +116,6 @@ Karma positivo:
 | 70 - 84  | La persona      no se mostrará hostil y os cambiará alguna que otra palabra pero no os hará mucho caso |
 | 30 - 69  | La persona os repudia y quiere que le dejeis en paz                                                    |
 | 20 - 29  | La persona experimenta un claro miedo                                                                  |
-| 19--         |    La persona huirá despab                                                                                                    |
+| 19--     | La persona huirá despaborida                                                                           |
+
+Siempre que un general les reconozca claramente irá a por ellos de inmediato, y la ciudad prácticamente entera sabrá de tu vuestra existencia.
