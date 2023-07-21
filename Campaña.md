@@ -81,6 +81,6 @@ Eventos en el camino:
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Si les han descubierto | Una partida de búsqueda esta en medio del camino, esta buscan y preguntando a la gente por vosotros                                                                                                               |
 | La mujer vieja         | Una anciana viaja en su burro con mucha tranquilidad, a un paso manso y lento, como no puede ver bien os confunde con niños, os ofrece algo de comida                                                             |
-| Lobos asustados        | Por alguna razón que no comprendéis, un montón de lobos y de cachorros han empezado a correr en sentido contrario vuestro, os ignoran todos, están huyendo de Leonardo (https://5e.tools/bestiary.html#giff_mpmm) |
-| Una casa ardiendo      | Comenzáis a oler a humo y ceniza, además podéis notar que hace mucho más calor. una casa esta ardiendo y podeis escuchar los gritos de alguien dentro, que haceis.                                                |
+| Lobos asustados        | Por alguna razón que no comprendéis, un montón de lobos y de cachorros han empezado a correr en sentido contrario vuestro, os ignoran todos, están huyendo de [[Leonardo Irideluar]] (https://5e.tools/bestiary.html#giff_mpmm) |
+| Una casa ardiendo      | Comenzáis a oler a humo y ceniza, además podéis notar que hace mucho más calor. una casa esta ardiendo y podéis escuchar los gritos de alguien dentro, que hacéis.                                                |
 
