@@ -47,4 +47,4 @@ En la la parte trasera del pergamino habían unas coordenadas:
 Pueden tomar tres rutas:
 - Ir hacia Fortalis, casa Pargid.
 - Ir hacia Galandris, casa Kerindell.
-- Ir hacia 
+- Ir hacia Erdustad, casa RocaTerra. (Lider Gormund)
