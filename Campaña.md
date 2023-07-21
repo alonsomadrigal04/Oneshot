@@ -110,7 +110,10 @@ Descripción según, rutas  y Karma:
 Karma positivo: 
 - Los jugadores estan en busca y captura, cada vez que te encuentres con una persona tira lo siguiente:
 
-| 1d100    | Actitud                                                                            |
-| -------- | ---------------------------------------------------------------------------------- |
-| 85 - 100 | La persona se mostrará copeeradora y mostrará compasion  por vosotros |
-| 70 - 100         |                                                                                    |
+| 1d100    | Actitud                                                                                                |
+| -------- | ------------------------------------------------------------------------------------------------------ |
+| 85 - 100 | La persona se mostrará cooperadora y mostrará compasión por vosotros                                   |
+| 70 - 84  | La persona      no se mostrará hostil y os cambiará alguna que otra palabra pero no os hará mucho caso |
+| 30 - 69  | La persona os repudia y quiere que le dejeis en paz                                                    |
+| 20 - 29  | La persona experimenta un claro miedo                                                                  |
+| 19--         |    La persona huirá despab                                                                                                    |
