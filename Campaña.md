@@ -31,7 +31,10 @@ En esta parte de la Aventura, tendrán un medidor de Karma, cuanto mas se acerqu
 - Matar a alguien: +10pp
 - Amenazar a alguien: +4pp
 - Robar: +2pp
-- 
+- Mostrar respeto: -3pp
+- Tradear: -3pp
+- No mostrarse amenzante cuando se tiene la oportunidad: +
+- Ayudar a alguien de algún peligro: -10pp
 
 ## <font color="#ffc000">BARCO</font>
 ---
