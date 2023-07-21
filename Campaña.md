@@ -125,8 +125,8 @@ Karma <font color="#00b0f0">Negativo</font>:
 
 | 1d100    | Actitud                                                                                                |
 | -------- | ------------------------------------------------------------------------------------------------------ |
-| 85 - 100 | La persona se mostrará cooperadora y mostrará compasión por vosotros                                   |
-| 70 - 84  | La persona      no se mostrará hostil y os cambiará alguna que otra palabra pero no os hará mucho caso |
-| 30 - 69  | La persona os repudia y quiere que le dejeis en paz                                                    |
-| 70 - 84  | La persona experimenta un claro miedo                                                                  |
-| 85 - 100     | La persona huirá despaborida                                                                           |
+| 50 - 100 | La persona se mostrará cooperadora y mostrará compasión por vosotros                                   |
+| 35 - 49  | La persona      no se mostrará hostil y os cambiará alguna que otra palabra pero no os hará mucho caso |
+| 20 - 34  | La persona os repudia y quiere que le dejeis en paz                                                    |
+| 20 - 19  | La persona experimenta un claro miedo                                                                  |
+| 19--     | La persona huirá despavorida                                                                           |
