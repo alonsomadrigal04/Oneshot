@@ -6,4 +6,4 @@ Así, la creación de las casas no fue solo un acto de generosidad para brindar 
 
 A medida que las casas competían y luchaban por la supremacía, surgieron rivalidades y alianzas cambiantes. La intriga política y la guerra se convirtieron en elementos constantes en el mundo de Enosis. Los dragones observaban desde las sombras, presenciando la evolución de la humanidad y cómo las oscuras pasiones y deseos se entrelazaban con las luchas de poder entre las casas.
 
-Así, es como se dio luz a la Era 0, la Era más oscura y dura de Énosis. Pues en cada una de las casas mayores, existia un rey más tirano que e
+Así, es como se dio luz a la Era 0, la Era más oscura y dura de Énosis. Pues en cada una de las casas mayores, existía un rey más tirano que el anterior. Que no le importaba su gente, solamente la obtención de mas territorios, riquezas y poder. Todo hasta que comenzo la Era 1, una Era  
