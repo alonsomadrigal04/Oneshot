@@ -45,6 +45,11 @@ En la la parte trasera del pergamino habían unas coordenadas:
 ## <font color="#ffc000">DE CAMINO HACIA LA CIUDAD</font>
 ---
 Pueden tomar tres rutas:
-- Ir hacia Fortalis, casa Pargid.
-- Ir hacia Galandris, casa Kerindell.
-- Ir hacia Erdustad, casa RocaTerra. (Lider Gormund)
+- Ir hacia <u>Fortalis</u>, casa Pargid.
+- Ir hacia <u>Galandris</u>, casa Kerindell.
+- Ir hacia <u>Erdustad</u>, casa RocaTerra. (Lider Gormund)
+Eventos que se encuentran en el camino hacia allí:
+
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |

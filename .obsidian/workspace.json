@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personajes/Denves Ventalis.md",
+                "file": "Campaña.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personajes/Denves Ventalis.md",
+                "file": "Campaña.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personajes/Denves Ventalis.md",
+                "file": "Campaña.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personajes/Denves Ventalis.md"
+                "file": "Campaña.md"
               }
             }
           },
@@ -210,9 +210,11 @@
   },
   "active": "a8704d162e877d02",
   "lastOpenFiles": [
+    "Personajes/Ka Mach Eriskal.md",
+    "Archivos/Vértice Arcano.md",
+    "Archivos/Origen de las Casas.md",
+    "Personajes/Denves Ventalis.md",
     "Campaña.md",
-    "Lore/Origen de las Casas.md",
-    "Lore/Vértice Arcano.md",
     "Items/Blade of Medusa.md",
     "Items/Items.md",
     "Items/Axe of Sorrow.md",
@@ -225,9 +227,7 @@
     "Personajes/Selene Galdaris.md",
     "Personajes/Gwendolyn Keridell.md",
     "Personajes/Jön Pargid.md",
-    "Personajes/Ka Mach Eriskal.md",
     "Personajes/Helios Kerman.md",
-    "Personajes/Denves Ventalis.md",
     "Imagenes/Default_Visualize_an_excessively_strong_dwarf_woman_defying_al_1_e2a09ace-b563-4bfd-922d-7c21aa2251cb_1.jpg",
     "Imagenes/Elf_1.png",
     "Imagenes/Leonardo_Diffusion_Atop_a_frozen_mountain_an_imposing_goliath_2.jpg",
@@ -243,7 +243,7 @@
     "Imagenes",
     "Sitios",
     "Personajes",
-    "Lore",
+    "Archivos",
     "Personajes"
   ]
 }
