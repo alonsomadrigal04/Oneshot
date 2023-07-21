@@ -25,6 +25,9 @@ Como <font color="#00b050">Goblins</font> han robado durante mucho tiempo y han 
 | (14 - 24)            | A pesar de su complejidad, tras tiempo de indagación, habéis aprendido a usar todos las herramientas que habeis ido descubriendo                 | 2 Candle of the Deep 1 Horn of Valhalla                    |
 | (0 - 13)             | No comprendéis demasiado la magia de Énosis y muchos de los artilugios que os encontrabais los desechabais sin saber muy bien de que se trataban | 1 Blade of medusa  1 Axe of Sorrow 1 Anillo de la Ascnsion |
 
+## DINAMICA
+En esta parte de la Aventura, tendrán un medidor de Karma, cuanto mas se acerque a la bondosidad, mas gente les ayudará en su aventura. cuanto más malos sean, mas miedo les tendrán.
+
 ## <font color="#ffc000">BARCO</font>
 ---
 En la la parte trasera del pergamino habían unas coordenadas:
@@ -68,8 +71,8 @@ Eventos en el camino:
 
 | Nombre del evento      | Eventos                                                                                                                                                                                                           |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Si les han descubierto | Una partida de búsqueda esta en medio del camino, esta bsucan y preguntando a la gente por vosotros                                                                                                               |
+| Si les han descubierto | Una partida de búsqueda esta en medio del camino, esta buscan y preguntando a la gente por vosotros                                                                                                               |
 | La mujer vieja         | Una anciana viaja en su burro con mucha tranquilidad, a un paso manso y lento, como no puede ver bien os confunde con niños, os ofrece algo de comida                                                             |
 | Lobos asustados        | Por alguna razón que no comprendéis, un montón de lobos y de cachorros han empezado a correr en sentido contrario vuestro, os ignoran todos, están huyendo de Leonardo (https://5e.tools/bestiary.html#giff_mpmm) |
-| Una casa ardiendo      |   Comenzáis a escuchar                                                                                                                                                                                                                 |
-|                        |                                                                                                                                                                                                                   |
+| Una casa ardiendo      | Comenzáis a oler a humo y ceniza, además podéis notar que hace mucho más calor. una casa esta ardiendo y podeis escuchar los gritos de alguien dentro, que haceis.                                                |
+
