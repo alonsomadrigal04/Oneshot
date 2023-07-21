@@ -59,7 +59,8 @@ Eventos que se encuentran en el camino hacia allí:
 
 Después de eso tiene que llegar a la ciudad, tendrán solamente dos posibilidades.
 
-| Posibilidades                                                           | Resultado |
-| ----------------------------------------------------------------------- | --------- |
-| Ir por el camino directamente                                           |           |
-| Seguir el camino desde los alrededores sin llegar a entrar en el camino |  Si van de forma sigilosa y sin que nadie d         |
+| Posibilidades                                                           | Resultado                                                                                                                                          |
+| ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ir por el camino directamente                                           | Si dejan testigos o evidencias de su existencia, cuando lleguen a la ciudad habrá más seguridad y habrá una orden de busca y captura de vuestros   |
+| Seguir el camino desde los alrededores sin llegar a entrar en el camino | Si van de forma sigilosa y sin que nadie del camino se entere, no seran descubiertos por la guardia y estaran excentos de estar en busca y captura |
+|                                                                         |                                                                                                                                                    |
