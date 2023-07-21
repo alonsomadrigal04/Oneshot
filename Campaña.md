@@ -87,7 +87,7 @@ Eventos en el camino:
 ## <font color="#ffc000">LA CIUDAD</font>
 ---
 Descripción según, rutas  y Karma:
-- Fortalis, una urbe majestuosa y colosal, se despliega ante vuestros ojos como un sueño de metal y fuego. El aire impregna vuestro ser con un aroma metálico y ardente, testigo del incesante trajinar de la forja que resuena desde las afueras, donde los herreros, con brazos incansables, forjan obras maestras de hierro y acero en busca de la perfección.
+- Fortalis, una urbe majestuosa y colosal, se despliega ante vuestros ojos como un sueño de metal y fuego. El aire impregna vuestro ser con un aroma metálico y candente, testigo del incesante trajinar de la forja que resuena desde las afueras, donde los herreros, con brazos incansables, forjan obras maestras de hierro y acero en busca de la perfección.
 
   Sus muros blancos como la nieve, fruto de complejos procesos ignífugos, parecen ser azotados por una eterna lluvia de ceniza grisácea, que confiere un aura mística a esta enigmática ciudad. Al acercaros, la blancura del suelo se intensifica, como si pisarais la esencia misma del invierno.
 
@@ -107,7 +107,7 @@ Descripción según, rutas  y Karma:
    Cada hogar en Erdustad posee coquetas pasarelas que conducen hacia pequeñas embarcaciones de madera o hacia los umbrales de las casas vecinas, reflejando una comunidad unida por la mar. A pesar de la apariencia algo desgastada que envuelve al lugar, su encanto radica en la diversidad que alberga en su seno. Las criaturas que danzan por sus calles son de lo más variopintas, una amalgama de seres provenientes de los misteriosos abismos marinos, como los Tritones, hasta la etérea gracia de los elfos del agua.
 
 
-COMUN:
+<font color="#245bdb"><u>COMUN</u>:</font> Podéis ver como hay más aventureros de lo que cabria esperar, numerosas personas cona armadura tiñen las calles de colores plateados y dorados. Todos van en direcciones de las tiendas y se dirigen a las posadas mas cercanas.
 
 Karma <font color="#ff0000">positivo</font>: 
 - Los jugadores están en <font color="#ff0000"><u>busca y captura</u></font>, cada vez que te encuentres con una persona tira lo siguiente:
