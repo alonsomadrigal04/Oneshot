@@ -95,4 +95,4 @@ Descripción según, rutas  y Karma:
   Los altos muros que abrazan Fortalis, se alzan desafiantes hacia el cielo, como guardianes incólumes del reino que protegen. En su magnificencia, varios niveles de miradores y atalayas se recortan contra el firmamento, observando el horizonte con ojos vigilantes y celosos.
 
 
-- Galandris, Un aire fresco entre los turbios ai
+- Galandris, Un aire fresco entre los turbios aires pesados de las montañas. Galandris es una sitio de ensueño para cualquier amante de la naturaleza, creado en base a un oasis en medio de una montaña seca, Galantris es una de las zonas mas verdes del imperio de Énosis. El verde de los arboles invade cada esquina de las calles. los huertos interiores son abundantes entre las bajas casas. Los enanos son los que mas avitan este lugar, pero no es raro ver a otros seres como tieflings, goliaths, humanos o in
