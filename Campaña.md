@@ -84,3 +84,7 @@ Eventos en el camino:
 | Lobos asustados        | Por alguna razón que no comprendéis, un montón de lobos y de cachorros han empezado a correr en sentido contrario vuestro, os ignoran todos, están huyendo de [[Leonardo Irideluar]] (https://5e.tools/bestiary.html#giff_mpmm) |
 | Una casa ardiendo      | Comenzáis a oler a humo y ceniza, además podéis notar que hace mucho más calor. una casa esta ardiendo y podéis escuchar los gritos de alguien dentro, que hacéis.                                                |
 
+## <font color="#ffc000">LA CIUDAD</font>
+---
+Descripción según, rutas  y Karma:
+- Fortalis; Delante de vosotros podeis oler el metalico olor 
