@@ -87,4 +87,4 @@ Eventos en el camino:
 ## <font color="#ffc000">LA CIUDAD</font>
 ---
 Descripción según, rutas  y Karma:
-- Fortalis; Delante de vosotros podéis oler el metálico olor del ambiente, la ciudad genera una especie de calor en su interior. Podéis escuchar desde las afueras de la ciudad como hay incesantes golpes de martillo que hacen justicia a los numerosos herreros que ocupan esta ciudad. Fortalis
+- Fortalis; Delante de vosotros podéis oler el metálico olor del ambiente, la ciudad genera una especie de calor en su interior. Podéis escuchar desde las afueras de la ciudad como hay incesantes golpes de martillo que hacen justicia a los numerosos herreros que ocupan esta ciudad. Fortalis Es una ciudad blanca como la nieve, debido a los constes procesos ignifugos, parece que hay una lluvia de ceniza gris constante, ademas, podeis ver como a meddia que os acecais el suelo es cada vez mas blanco. En lo referente a la ciudad amurallada, los muros son desproporcionales al ancho del renio, pues los muros se alzan demasiado hacia el cielo, habiendo varios compartimentos de vigias en distintos niveles.
