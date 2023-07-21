@@ -87,4 +87,12 @@ Eventos en el camino:
 ## <font color="#ffc000">LA CIUDAD</font>
 ---
 Descripción según, rutas  y Karma:
-- Fortalis; Delante de vosotros podéis oler el metálico olor del ambiente, la ciudad genera una especie de calor en su interior. Podéis escuchar desde las afueras de la ciudad como hay incesantes golpes de martillo que hacen justicia a los numerosos herreros que ocupan esta ciudad. Fortalis Es una ciudad blanca como la nieve, debido a los constes procesos ignifugos, parece que hay una lluvia de ceniza gris constante, ademas, podeis ver como a meddia que os acecais el suelo es cada vez mas blanco. En lo referente a la ciudad amurallada, los muros son desproporcionales al ancho del renio, pues los muros se alzan demasiado hacia el cielo, habiendo varios compartimentos de vigias en distintos niveles.
+- Fortalis, una urbe majestuosa y colosal, se despliega ante vuestros ojos como un sueño de metal y fuego. El aire impregna vuestro ser con un aroma metálico y ardente, testigo del incesante trajinar de la forja que resuena desde las afueras, donde los herreros, con brazos incansables, forjan obras maestras de hierro y acero en busca de la perfección.
+
+  Sus muros blancos como la nieve, fruto de complejos procesos ignífugos, parecen ser azotados por una eterna lluvia de ceniza grisácea, que confiere un aura mística a esta enigmática ciudad. Al acercaros, la blancura del suelo se intensifica, como si pisarais la esencia misma del invierno.
+
+
+  Los altos muros que abrazan Fortalis, se alzan desafiantes hacia el cielo, como guardianes incólumes del reino que protegen. En su magnificencia, varios niveles de miradores y atalayas se recortan contra el firmamento, observando el horizonte con ojos vigilantes y celosos.
+
+
+- Galandris, Un aire fresco entre los turbios ai
