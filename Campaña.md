@@ -28,7 +28,12 @@ Como <font color="#00b050">Goblins</font> han robado durante mucho tiempo y han 
 ## <font color="#ffc000">BARCO</font>
 ---
 "En la la parte trasera del pergamino habían unas coordenadas:
-|17 Inteligence|Habeis sabido interpretar las coordenadas y sabei|
+
+|   Tirada  |    Resultado |
+| --- | --- |
+|   18-20  | Sabeis exactamente donde se encuentran las coordenadas, cerca de Permida, en territorio de la casa Vent    |
+
+
 
 
 en territorio de la <u>casa Ventur</u>. Tendréis que partir hacia allí, sabéis que hay barcos en <u>Fortalith</u>, capital de la <u>casa Pargid</u>. Vuestro destino será <u>Permida</u>, la capital de la <u>casa Ventur</u>. Aunque también hay barcos que salen hacia <u>Permida</u>, pues la casa <u>Kerindell</u>, tiene su propio puerto. Aunque también hay otras formas poco bien vistas en este mundo, a la que podéis optar para poder ir hasta alli..."
