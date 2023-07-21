@@ -35,5 +35,8 @@ Como <font color="#00b050">Goblins</font> han robado durante mucho tiempo y han 
 | 10 - 17 | La una Runa que entiendes es "Polemos"                                                                    |
 | 1 - 9   | Para ti el pergamino no son mas que garabatos sin sentido                                                 |
 
-### Cosas que sabeis
+### Cosas que sabéis
+"Os encontráis en las montañas de Pröta en Varys. Sabéis que existen 2 casas mayores, una al este y otra al sur. Y una menor al Oeste de donde os encontráis"
 
+- Podrán colarse o coger un barco que vaya hacía allí.
+- Podrán tomar
