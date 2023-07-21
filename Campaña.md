@@ -119,3 +119,14 @@ Karma <font color="#ff0000">positivo</font>:
 | 19--     | La persona huirá despaborida                                                                           |
 
 Siempre que un general les reconozca claramente irá a por ellos de inmediato, y la ciudad prácticamente entera sabrá de tu vuestra existencia.
+
+Karma <font color="#00b0f0">Negativo</font>:
+- La gente ve con ojos de compasión a los Goblins, e intentan esconderlos de la guardia.
+
+| 1d100    | Actitud                                                                                                |
+| -------- | ------------------------------------------------------------------------------------------------------ |
+| 85 - 100 | La persona se mostrará cooperadora y mostrará compasión por vosotros                                   |
+| 70 - 84  | La persona      no se mostrará hostil y os cambiará alguna que otra palabra pero no os hará mucho caso |
+| 30 - 69  | La persona os repudia y quiere que le dejeis en paz                                                    |
+| 70 - 84  | La persona experimenta un claro miedo                                                                  |
+| 85 - 100     | La persona huirá despaborida                                                                           |
