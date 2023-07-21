@@ -128,5 +128,9 @@ Karma <font color="#00b0f0">Negativo</font>:
 | 50 - 100 | La persona se mostrará cooperadora y mostrará compasión por vosotros                                   |
 | 35 - 49  | La persona      no se mostrará hostil y os cambiará alguna que otra palabra pero no os hará mucho caso |
 | 20 - 34  | La persona os repudia y quiere que le dejeis en paz                                                    |
-| 20 - 19  | La persona experimenta un claro miedo                                                                  |
-| 19--     | La persona huirá despavorida                                                                           |
+| 10 - 19  | La persona experimenta un claro miedo                                                                  |
+| 10--     | La persona huirá despavorida                                                                           |
+
+### Eventos de resguardo
+---
+Una guardia irá en su camino y tienen un puente a su derecha, pero una persona les susurra que vayan dentro de su casa. Si van dentro de la casa una 
