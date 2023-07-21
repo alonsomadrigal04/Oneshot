@@ -95,4 +95,11 @@ Descripción según, rutas  y Karma:
   Los altos muros que abrazan Fortalis, se alzan desafiantes hacia el cielo, como guardianes incólumes del reino que protegen. En su magnificencia, varios niveles de miradores y atalayas se recortan contra el firmamento, observando el horizonte con ojos vigilantes y celosos.
 
 
-- Galandris, Un aire fresco entre los turbios aires pesados de las montañas. Galandris es una sitio de ensueño para cualquier amante de la naturaleza, creado en base a un oasis en medio de una montaña seca, Galantris es una de las zonas mas verdes del imperio de Énosis. El verde de los arboles invade cada esquina de las calles. los huertos interiores son abundantes entre las bajas casas. Los enanos son los que mas avitan este lugar, pero no es raro ver a otros seres como Arakokras, goliaths, humanos o incluso Duergars . 
+- Galandris, Un aliento de renovadora frescura acaricia los sentidos en medio de los opresivos aires montañosos. Galandris, un rincón embaucador para los amantes de la naturaleza, se erige majestuoso como un oasis en medio de áridas cumbres. Este asombroso paraje, una joya esmeralda incrustada en el vasto imperio de Énosis, es un remanso de verdor sin igual.
+
+   Los arboledas, con sus hojas danzantes, se despliegan cual tapiz sobre las calles empedradas, imbuyendo cada recoveco de vida y frescor. Huertos prósperos engalanan los patios traseros de las modestas moradas, donde el espíritu agrícola florece con esmero y gratitud.
+   
+   Los enanos, guardianes de estas tierras benditas, encuentran aquí su hogar predilecto, y su presencia se hace sentir en cada rincón de Galandris. Pero no son los únicos habitantes de tan prodigioso edén, pues seres de diversas estirpes como los majestuosos Arakokras, los imponentes goliaths, humanos y hasta Duergars, encuentran también refugio en esta tierra fecunda.
+
+
+- Erdustad, 
