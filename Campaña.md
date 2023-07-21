@@ -66,7 +66,9 @@ Después de eso tiene que llegar a la ciudad, tendrán solamente dos posibilidad
 
 Eventos en el camino:
 
-| 1d4                    | Eventos                                                                                             |
-| ---------------------- | --------------------------------------------------------------------------------------------------- |
-| Si les han descubierto | Una partida de búsqueda esta en medio del camino, esta bsucan y preguntando a la gente por vosotros |
-|                        |                                                                                                     |
+| Nombre del evento      | Eventos                                                                                                                                               |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Si les han descubierto | Una partida de búsqueda esta en medio del camino, esta bsucan y preguntando a la gente por vosotros                                                   |
+| La mujer vieja         | Una anciana viaja en su burro con mucha tranquilidad, a un paso manso y lento, como no puede ver bien os confunde con niños, os ofrece algo de comida |
+| Lobos asustados        |      Por alguna razon que no comprendeis, un monton de lobos y d                                                                                                                                                  |
+|                        |                                                                                                                                                       |
