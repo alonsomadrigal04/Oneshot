@@ -102,4 +102,10 @@ Descripción según, rutas  y Karma:
    Los enanos, guardianes de estas tierras benditas, encuentran aquí su hogar predilecto, y su presencia se hace sentir en cada rincón de Galandris. Pero no son los únicos habitantes de tan prodigioso edén, pues seres de diversas estirpes como los majestuosos Arakokras, los imponentes goliaths, humanos y hasta Duergars, encuentran también refugio en esta tierra fecunda.
 
 
-- Erdustad, el constante olor a mar os llega desde las afueras de la ciudad, la baja ciudad de Erdustad hace honor al bajo nivel de poder de RocaTerra, pues todas las calles pecan de ser imponentes y exhuverantes en cambio, la ciudad es construida un poco mas lejos de la costa. Todas las casas tienen pequeñas pasarelas que llevan hacia botes de madera o llevan a la casa mas cercana. Todo en un aspecto algo demacrado, todas las criaturas alli existentes son muy variopintas, desde Tritones hasta elfos del agua.
+- Erdustad, El evocador aroma del mar se filtra desde los confines de la ciudad, inundando los sentidos con una brisa salina y fresca. Erdustad, la humilde contraparte de RocaTerra en términos de poderío, abraza con orgullo su identidad modesta, y sus calles, aunque desprovistas de grandiosidad, destilan una exuberancia singular. Esta urbe se erige un tanto alejada de la costa, otorgando un carácter único a su paisaje costero.
+
+   Cada hogar en Erdustad posee coquetas pasarelas que conducen hacia pequeñas embarcaciones de madera o hacia los umbrales de las casas vecinas, reflejando una comunidad unida por la mar. A pesar de la apariencia algo desgastada que envuelve al lugar, su encanto radica en la diversidad que alberga en su seno. Las criaturas que danzan por sus calles son de lo más variopintas, una amalgama de seres provenientes de los misteriosos abismos marinos, como los Tritones, hasta la etérea gracia de los elfos del agua.
+
+
+Karma positivo: 
+- Los jugadores estan en busca y captura, cada vez que te encuentres con una persona tira 1d100
