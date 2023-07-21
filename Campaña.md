@@ -45,4 +45,6 @@ En la la parte trasera del pergamino habían unas coordenadas:
 ## <font color="#ffc000">DE CAMINO HACIA LA CIUDAD</font>
 ---
 Pueden tomar tres rutas:
-- Ir hacia Pargid
+- Ir hacia Fortalis, casa Pargid.
+- Ir hacia Galandris, casa Kerindell.
+- Ir hacia 
