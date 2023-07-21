@@ -50,6 +50,7 @@ Pueden tomar tres rutas:
 - Ir hacia <u>Erdustad</u>, casa RocaTerra. (Lider Gormund)
 Eventos que se encuentran en el camino hacia allí:
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
+| 1d4 | Evento                                                                                                                                                                                                                                    |     |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 1   | Pasáis al lado de una cueva, dentro podéis escuchar ruidos de movimiento. (Tira Pecep 13) para ver una brillante luz al final de esta cueva. Si entran encontrarán a un aventurero Malherido tienen que pensar que hacer si ayudarle o no |     |
+|  2   |    Un grupo de la Guardia de Pargid esta patrullando las montañas de Pröta, parece que no                                                                                                                                                                                                                                        |     |
