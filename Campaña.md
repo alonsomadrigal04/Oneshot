@@ -57,4 +57,9 @@ Eventos que se encuentran en el camino hacia allí:
 | 3   | Hay un gran Lago en un peñasco de las montañas, parece muy profundo, parece que hay varias tiendas de campaña en la orilla del minusculo lago a unos cuantos metros de vosotros                                                                                                                                                             |
 | 4   | A los pies de la montaña habeis bajado por un camino comun, por lo que hay un puesto de guardia de (tira History para saberlo, Kerindell) hay media docena de soldados fuera resguardando la frontera                                                                                                                                       |
 
-Despues de eso tiene que llegar a la ciudad, tendrán solamene
+Después de eso tiene que llegar a la ciudad, tendrán solamente dos posibilidades.
+
+| Posibilidades                                                           | Resultado |
+| ----------------------------------------------------------------------- | --------- |
+| Ir por el camino directamente                                           |           |
+| Seguir el camino desde los alrededores sin llegar a entrar en el camino |  Si van de forma sigilosa y sin que nadie d         |
