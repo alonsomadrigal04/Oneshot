@@ -1,4 +1,4 @@
-Cuando el dragón blanco y el dragón negro crearon Enosis, no solo buscaban un equilibrio entre la luz y la oscuridad, sino también poner a prueba la naturaleza humana en su máximo esplendor. Ambos dragones sabían que la humanidad era una raza compleja y llena de contradicciones, y deseaban observar cómo se desarrollarían sus características más oscuras y egoístas.
+Cuando el dragón Prötá y el dragón negro crearon Enosis, no solo buscaban un equilibrio entre la luz y la oscuridad, sino también poner a prueba la naturaleza humana en su máximo esplendor. Ambos dragones sabían que la humanidad era una raza compleja y llena de contradicciones, y deseaban observar cómo se desarrollarían sus características más oscuras y egoístas.
 
 En lugar de crear un mundo armonioso y unido, los dragones decidieron dividir a los humanos en casas y territorios separados, cada uno gobernado por líderes ambiciosos y poderosos. Estos líderes serían responsables de mantener el control y la estabilidad en sus territorios, pero también se les presentaría una tentadora oportunidad para obtener más poder y expandir sus dominios a expensas de otros.
 
@@ -6,4 +6,4 @@ Así, la creación de las casas no fue solo un acto de generosidad para brindar 
 
 A medida que las casas competían y luchaban por la supremacía, surgieron rivalidades y alianzas cambiantes. La intriga política y la guerra se convirtieron en elementos constantes en el mundo de Enosis. Los dragones observaban desde las sombras, presenciando la evolución de la humanidad y cómo las oscuras pasiones y deseos se entrelazaban con las luchas de poder entre las casas.
 
-Así, es como se dio luz a la Era 0, la Era más oscura y dura de Énosis. Pues en cada una de las casas mayores, existía un rey más tirano que el anterior. Que no le importaba su gente, solamente la obtención de mas territorios, riquezas y poder. Todo hasta que comenzo la Era 1, una Era  
+Así, es como se dio luz a la Era 0, la Era más oscura y dura de Énosis. Pues en cada una de las casas mayores, existía un rey más tirano que el anterior. Que no le importaba su gente, solamente la obtención de mas territorios, riquezas y poder. Todo hasta que ocurrió la <u>DESAPARICIÓN</u>, y comenzase la Era 1. La Era de la Verdadera Esperanza y el Verdadero Origen. 
