@@ -139,5 +139,7 @@ Karma <font color="#00b0f0">Negativo</font>:
 
 - Un grupo de aventureros Se ciñen en una plaza cuadrada, parece ser que han decidido congregarse allí para escuchar la música de unos juglares que han aparecido. 
 
-- s
+- Un joven fuerte visiona a los Goblins desde la lejania y los sigue en todo momento, cuando el grupo se esta resguardando y/o ocultando sale a presentarse, se llama [[Uradur]]
+
 ### Eventos narrativos
+---

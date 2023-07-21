@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "2f32cdafe5c42a2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaña.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "76de38642a3aa302",
             "type": "leaf",
             "state": {
@@ -62,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -207,10 +219,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8704d162e877d02",
+  "active": "2f32cdafe5c42a2a",
   "lastOpenFiles": [
-    "Archivos/Origen de las Casas.md",
+    "Personajes/Uradur.md",
     "Campaña.md",
+    "Archivos/Origen de las Casas.md",
     "Personajes/Leonardo Irideluar.md",
     "Personajes",
     "Archivos/Vax Matï.md",
