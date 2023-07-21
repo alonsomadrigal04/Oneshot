@@ -29,11 +29,11 @@ Como <font color="#00b050">Goblins</font> han robado durante mucho tiempo y han 
 ---
 "En la la parte trasera del pergamino habían unas coordenadas:
 
-|   Tirada  |    Resultado |
-| --- | --- |
-|   18-20  | Sabeis exactamente donde se encuentran las coordenadas, cerca de Permida, en territorio de la casa Vent    |
+| Tirada  | Resultado                                                                                                 |
+| ------- | --------------------------------------------------------------------------------------------------------- |
+| 18-20   | Sabéis exactamente donde se encuentran las coordenadas, cerca de Permida, en territorio de la casa Ventur |
+| 10 - 17 | La una Runa que entiendes es "Polemos"                                                                    |
+| 1 - 9   | Para ti el pergamino no son mas que garabatos sin sentido                                                 |
 
+### Cosas que sabeis
 
-
-
-en territorio de la <u>casa Ventur</u>. Tendréis que partir hacia allí, sabéis que hay barcos en <u>Fortalith</u>, capital de la <u>casa Pargid</u>. Vuestro destino será <u>Permida</u>, la capital de la <u>casa Ventur</u>. Aunque también hay barcos que salen hacia <u>Permida</u>, pues la casa <u>Kerindell</u>, tiene su propio puerto. Aunque también hay otras formas poco bien vistas en este mundo, a la que podéis optar para poder ir hasta alli..."
