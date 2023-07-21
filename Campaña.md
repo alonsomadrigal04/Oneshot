@@ -66,6 +66,7 @@ Después de eso tiene que llegar a la ciudad, tendrán solamente dos posibilidad
 
 Eventos en el camino:
 
-| 1d4 | Eventos |
-| --- | ------- |
-|     |         |
+| 1d4                    | Eventos                                                                                             |
+| ---------------------- | --------------------------------------------------------------------------------------------------- |
+| Si les han descubierto | Una partida de búsqueda esta en medio del camino, esta bsucan y preguntando a la gente por vosotros |
+|                        |                                                                                                     |
