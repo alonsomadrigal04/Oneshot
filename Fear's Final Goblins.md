@@ -157,4 +157,4 @@ Mapa del barco:
 	![[Ship_1.jpg]]
 
 ### Acontecimientos del barco
-Hay un 
+Hay un [[Umbraxis]]
