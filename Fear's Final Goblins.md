@@ -170,13 +170,18 @@ Hay un [[Umbraxis]], pero todavía no esta transformado, atacará el tercer dia.
 
 - Si derrotan al Umbraxis sin bajas, tendrán, -20pp de Karma extra.
 
+### Eventos de relleno
+
+
 En el barco no pasará nada mas solamente eso, después llegarán a a su destino, Les dejará al sur de las montañas de Thymos. 
 - <u>El grupo de piratas por su valentía proponen ir en grupo hasta el punto acordado.</u>
 
-| Si                                                                                    | NO                                                                                                         |
+| <font color="#00b0f0">Si</font>                                                                                    | <font color="#ff0000">NO</font>                                                                                                         |
 | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | El grupo se ocultará a los goblins de los puestos de guardia y pasaran desapercibidos | El grupo respetará su decisión pero dependiendo de su Karma, tendrán que superar a la guardia varias veces |
 
-## LA PARTY VA CON EL GRUPO
+## <font color="#ffc000">LA PARTY VA CON EL GRUPO</font>
 ---
 
+## <font color="#ffc000">LA PARTY DECIDE IR POR SU CUENTA</font>
+---
