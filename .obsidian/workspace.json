@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archivos/Untitled.md",
+                "file": "Archivos/Ustraxis.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archivos/Untitled.md",
+                "file": "Archivos/Ustraxis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archivos/Untitled.md",
+                "file": "Archivos/Ustraxis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archivos/Untitled.md"
+                "file": "Archivos/Ustraxis.md"
               }
             }
           },
@@ -233,8 +233,10 @@
   },
   "active": "95467957bb6da974",
   "lastOpenFiles": [
+    "Imagenes/559dbf11dbcdd0ddba9b4c9d4ce8fb8b.jpg",
+    "Imagenes/559dbf11dbcdd0ddba9b4c9d4ce8fb8b.jpg.opdownload",
     "Archivos/Umbraxis.md",
-    "Archivos/Untitled.md",
+    "Archivos/Ustraxis.md",
     "Archivos/Vax Matï.md",
     "Imagenes/Vax_Matï.jpg",
     "Imagenes/Vax_Matï.jpg.opdownload",
@@ -276,7 +278,6 @@
     "Imagenes",
     "Sitios",
     "Vertice",
-    "Archivos",
-    "Vertice"
+    "Archivos"
   ]
 }
