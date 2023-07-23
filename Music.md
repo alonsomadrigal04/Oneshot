@@ -43,5 +43,8 @@ Momento Tenso:
 		- https://www.youtube.com/watch?v=MFOHjn3kUMo&list=PLbHUA-o_5dgKIcvpPs10ftV9AdaV_hNN1&index=15
 		- https://www.youtube.com/watch?v=KabE2KW9F34&list=PLbHUA-o_5dgKIcvpPs10ftV9AdaV_hNN1&index=16
 		- https://www.youtube.com/watch?v=WJYdNlNql38&list=PLbHUA-o_5dgKIcvpPs10ftV9AdaV_hNN1&index=23
+		- https://www.youtube.com/watch?v=ZTiGs0VBJII&list=PLbHUA-o_5dgKIcvpPs10ftV9AdaV_hNN1&index=31
 		Combates serios:
 		- https://www.youtube.com/watch?v=UOGisvIW_S0&list=PLbHUA-o_5dgKIcvpPs10ftV9AdaV_hNN1&index=18
+		- https://www.youtube.com/watch?v=HWsp8yqqX-o&list=PLbHUA-o_5dgKIcvpPs10ftV9AdaV_hNN1&index=43
+		- https://www.youtube.com/watch?v=GY0hMaWerpg&list=PLbHUA-o_5dgKIcvpPs10ftV9AdaV_hNN1&index=48
