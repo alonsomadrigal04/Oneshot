@@ -5,4 +5,4 @@ Aspecto:
 Casa:  <u>Pargid</u>, Warrior
 
 Actitud:
-	Es un Giff muy amistoso, debido a su longeba edad ve a todos como unos buenos aventureros respetables, y pese a la mala reput
+	Es un Giff muy amistoso, debido a su longeva edad ve a todos como unos buenos aventureros respetables, y pese a la mala reputación de los goblins, tiene especial interés en el grupo y les querrá ayudar siempre que sea posible.

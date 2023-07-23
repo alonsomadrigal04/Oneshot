@@ -139,7 +139,7 @@ Karma <font color="#00b0f0">Negativo</font>:
 
 - Un grupo de aventureros Se ciñen en una plaza cuadrada, parece ser que han decidido congregarse allí para escuchar la música de unos juglares que han aparecido. 
 
-- Un joven fuerte visiona a los <font color="#00b050">Goblins</font> desde la lejanía y los sigue en todo momento, cuando el grupo se esta resguardando y/o ocultando sale a presentarse, se llama [[Uradur]], y quiere ayudarlos a coger el barco que cogerán.
+- Un joven fuerte visiona a los <font color="#00b050">Goblins</font> desde la lejanía y los sigue en todo momento, cuando el grupo se esta resguardando y/o ocultando sale a presentarse, se llama [[Uradur Vintel]], y quiere ayudarlos a coger el barco que cogerán.
 
 ## <font color="#ffc000">VIAJE HACIA EL CAMPAMENTO</font>
 ---
