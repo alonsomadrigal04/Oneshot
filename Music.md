@@ -13,5 +13,8 @@ Conocer a Dala:
 	Ambiente: https://www.youtube.com/watch?v=KzpU9XuYhTo
 
 Zarpar el Barco:
-	Ambiente:
+	Ambiente: https://www.youtube.com/watch?v=beOw8MEojQ4
 	Música: https://www.youtube.com/watch?v=UgrFlGuloVE&list=PLbHUA-o_5dgI6tffbLSHhgBVx8j3Y42sg&index=34
+
+Interior de un barco: 
+	https://www.youtube.com/watch?v=7JZ4uBJLJ60&t=1s
