@@ -4,6 +4,7 @@ Comienzo:
 
 Camino a la ciudad:
 	Ambiente: 
+	Musica: https://www.youtube.com/watch?v=_g75ilY59sk&list=PLbHUA-o_5dgI6tffbLSHhgBVx8j3Y42sg&index=18
 
 
 Conocer a Dala:
