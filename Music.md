@@ -1,6 +1,13 @@
 Comienzo:
 	Ambiente: https://www.youtube.com/watch?v=oy0jX_I1CIU&t
-	Música: 
+	Música: https://www.youtube.com/watch?v=zZxiJkwPJ10&list=PLbHUA-o_5dgI6tffbLSHhgBVx8j3Y42sg&index=32
+
+Camino a la ciudad:
+	Ambiente: 
+
+
+Conocer a Dala:
+	Musica: https://www.youtube.com/watch?v=0S-18JvB8io&list=PLbHUA-o_5dgLFhaZw8mfSW36kewuYBzQX&index=14
 
 Zarpar el Barco:
 	Ambiente:
