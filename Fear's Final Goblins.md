@@ -147,6 +147,6 @@ Karma <font color="#00b0f0">Negativo</font>:
 
 | Nombre | Especificaciones |
 | ------ | ---------------- |
-|  Capitan      |    Giuvert,               |
+|  Capitan      |    Galavarsta, (45)              |
 
 El viaje estará aproximado a 4 días en barco.
