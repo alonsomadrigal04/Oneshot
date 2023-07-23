@@ -12,7 +12,8 @@ Camino a la ciudad (noche):
 
 Ciudad Pargid:
 
-Tab
+Taberna escondida:
+	Ambiente: https://www.youtube.com/watch?v=Ag8sbpNXBEQ
 
 Conocer a Dala:
 	Musica: https://www.youtube.com/watch?v=0S-18JvB8io&list=PLbHUA-o_5dgLFhaZw8mfSW36kewuYBzQX&index=14
