@@ -17,6 +17,9 @@ Ciudad Erdustard:
 	Ambiente: https://www.youtube.com/watch?v=ZYKrSjznbyo&t=1727s
 	
 
+Ciudad Galandris
+	Ambiente: https://www.youtube.com/watch?v=wEEc9RhHTzU&t=8s
+
 Taberna escondida:
 	Ambiente: https://www.youtube.com/watch?v=Ag8sbpNXBEQ
 
@@ -31,3 +34,5 @@ Zarpar el Barco:
 Interior de un barco: 
 	Ambiente: https://www.youtube.com/watch?v=7JZ4uBJLJ60&t=1s
 
+Momento Tenso:
+	https://www.youtube.com/watch?v=KjJQ4uTVvvg&t=336s
