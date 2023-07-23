@@ -2,10 +2,13 @@ Comienzo:
 	Ambiente: https://www.youtube.com/watch?v=oy0jX_I1CIU&t
 	Música: https://www.youtube.com/watch?v=zZxiJkwPJ10&list=PLbHUA-o_5dgI6tffbLSHhgBVx8j3Y42sg&index=32
 
-Camino a la ciudad:
+Camino a la ciudad (dia):
 	Ambiente: https://www.youtube.com/watch?v=mBKG-WXcPNs
 	Musica: https://www.youtube.com/watch?v=98mljEyACR0&list=PLbHUA-o_5dgIsygTHdw_03UhAoQfsdeCR&index=5
 
+Camino a la ciudad (noche):
+	Ambiente: https://www.youtube.com/watch?v=UDFv8ai-SbU
+	Music: 
 
 
 Conocer a Dala:
