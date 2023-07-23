@@ -1,3 +1,4 @@
+#Crysalia 
 aspecto:
 	![[Vax_Matï.jpg]]
 Los Vax Mati resultan ser criaturas que han sido aceptadas como adeptos por un dragón cualquiera. A pesar de saber de su existencia, todos estos están latentes en territorios desconocidos, con entrar en contacto en la tierra en la que se encuentran, tienes una posibilidad de convertirte en un Vax Matï. 

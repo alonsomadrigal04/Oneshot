@@ -59,8 +59,12 @@
             "id": "95467957bb6da974",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fear's Final Goblins.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -148,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fear's Final Goblins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fear's Final Goblins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fear's Final Goblins.md"
+              }
             }
           },
           {
@@ -225,12 +233,12 @@
   },
   "active": "95467957bb6da974",
   "lastOpenFiles": [
-    "Fear's Final Goblins.md",
+    "Archivos/Crysalia.md",
     "Archivos/Vax Matï.md",
     "Archivos/Ustraxis.md",
     "Archivos/Umbraxis.md",
+    "Fear's Final Goblins.md",
     "Archivos/Origen de las Casas.md",
-    "Archivos/Crysalia.md",
     "Imagenes/Captura de pantalla 2023-07-23 225923.png",
     "Archivos/Vértice Arcano.md",
     "Imagenes/559dbf11dbcdd0ddba9b4c9d4ce8fb8b.jpg",

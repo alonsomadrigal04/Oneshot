@@ -157,10 +157,11 @@ Mapa del barco:
 	![[Ship_1.jpg]]
 
 ### Acontecimientos del barco
-Hay un [[Umbraxis]], pero todavía no esta transformado. Podrán sospechar si realizan un investigación a cada hombre del barco. Ven una marca de [[Crysalia]] (estas marcas consisten en determinadas runas en un territorio cercano al [[Umbraxis]] como marca de su existencia)
+Hay un [[Umbraxis]], pero todavía no esta transformado, atacará el tercer dia. Podrán sospechar si realizan un investigación a cada hombre del barco. Ven una marca de [[Crysalia]] (estas marcas consisten en determinadas runas en un territorio cercano al [[Umbraxis]] como marca de su existencia)
 
 ### Eventos de apoyo
 
-| nombre | Evento |
-| ------ | ------ |
-|    Runa de [[Umbraxis]]    |        |
+| nombre               | Evento                                                     |
+| -------------------- | ---------------------------------------------------------- |
+| Runa de [[Umbraxis]] | Antes de ir a dormir la criatura con más Pasive Percepción, podrá ver la runa brillar entre las  |
+|                      |                                                            |

@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 16711680
       }
+    },
+    {
+      "query": "tag:#Crysalia",
+      "color": {
+        "a": 1,
+        "rgb": 43775
+      }
     }
   ],
   "collapse-display": true,
