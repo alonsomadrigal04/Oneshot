@@ -141,6 +141,12 @@ Karma <font color="#00b0f0">Negativo</font>:
 
 - Un joven fuerte visiona a los <font color="#00b050">Goblins</font> desde la lejanía y los sigue en todo momento, cuando el grupo se esta resguardando y/o ocultando sale a presentarse, se llama [[Uradur]], y quiere ayudarlos a coger el barco que cogerán.
 
-## VIAJE HACIA EL CAMPAMENTO
+## <font color="#ffc000">VIAJE HACIA EL CAMPAMENTO</font>
 ---
-So
+### Características del viaje
+
+| Nombre | Especificaciones |     |
+| ------ | ---------------- | --- |
+|        |                  |     |
+
+El viaje estará aproximado a 4 días en barco.
