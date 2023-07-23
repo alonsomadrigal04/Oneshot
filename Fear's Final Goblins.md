@@ -145,8 +145,8 @@ Karma <font color="#00b0f0">Negativo</font>:
 ---
 ### Características del viaje
 
-| Nombre | Especificaciones |     |
-| ------ | ---------------- | --- |
-|        |                  |     |
+| Nombre | Especificaciones |
+| ------ | ---------------- |
+|  Capitan      |    Giuvert,               |
 
 El viaje estará aproximado a 4 días en barco.
