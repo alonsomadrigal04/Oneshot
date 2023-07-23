@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music.md",
+                "file": "Fear's Final Goblins.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music.md",
+                "file": "Fear's Final Goblins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music.md",
+                "file": "Fear's Final Goblins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music.md"
+                "file": "Fear's Final Goblins.md"
               }
             }
           },
@@ -233,8 +233,8 @@
   },
   "active": "95467957bb6da974",
   "lastOpenFiles": [
-    "Fear's Final Goblins.md",
     "Music.md",
+    "Fear's Final Goblins.md",
     "Imagenes/Ship_1.jpg",
     "Personajes/Dalavash Marhsu.md",
     "Vertice/Muruth Erikel.md",
