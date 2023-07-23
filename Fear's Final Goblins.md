@@ -147,7 +147,7 @@ Karma <font color="#00b0f0">Negativo</font>:
 
 | Nombre  | Especificaciones               |
 | ------- | ------------------------------ |
-| Capitan | Dalavash, (45), Kalashtar |
+| Capitan | [[Dalavash Marhsu]] |
 |         |                                |
 
 El viaje estará aproximado a 4 días en barco.
