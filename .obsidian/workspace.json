@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archivos/Crysalia.md",
+                "file": "Fear's Final Goblins.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archivos/Crysalia.md",
+                "file": "Fear's Final Goblins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archivos/Crysalia.md",
+                "file": "Fear's Final Goblins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archivos/Crysalia.md"
+                "file": "Fear's Final Goblins.md"
               }
             }
           },
@@ -231,14 +231,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "95467957bb6da974",
+  "active": "35b544b7a679a609",
   "lastOpenFiles": [
+    "Archivos/Vax Matï.md",
     "Archivos/Ustraxis.md",
     "Archivos/Umbraxis.md",
-    "Imagenes/Captura de pantalla 2023-07-23 225923.png",
-    "Archivos/Vax Matï.md",
-    "Archivos/Vértice Arcano.md",
+    "Archivos/Origen de las Casas.md",
     "Archivos/Crysalia.md",
+    "Imagenes/Captura de pantalla 2023-07-23 225923.png",
+    "Archivos/Vértice Arcano.md",
     "Imagenes/559dbf11dbcdd0ddba9b4c9d4ce8fb8b.jpg",
     "Imagenes/559dbf11dbcdd0ddba9b4c9d4ce8fb8b.jpg.opdownload",
     "Imagenes/Vax_Matï.jpg",
@@ -258,7 +259,6 @@
     "Vertice/Denves Ventalis.md",
     "Imagenes/Default_humanoid_hippopotamus_with_golden_monocle_in_one_eye_d_1_e8c35496-e79b-424c-ac1c-e3fb144f54a4_1.jpg",
     "Imagenes/Default_Kalashtar_Pirate_cape_very_strong_pink_skin_pirate_hat_1_2540d51e-b50f-40bf-8859-77623932be0f_1.jpg",
-    "Archivos/Origen de las Casas.md",
     "Personajes",
     "Vertice/Ka Mach Eriskal.md",
     "Items/Blade of Medusa.md",

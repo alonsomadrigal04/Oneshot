@@ -6,4 +6,6 @@ Si te conviertes en un Vax Matï, se te brindan unos poderes inmensos todas tus 
 
 Popularmente solo se sabe que los Vax Matï tienen que permanecer en un territorio concreto, este territorio puede ser desde un reino entero, hasta solamente una ciudad. Pero la verdadera razón de los Vax Matï se desconoce.
 
+Los Vax Matï aparecen también como consecuencia de la tormenta [[Crysalia]], pudiendo controlar a las criaturas creadas por la misma, siendo estas los [[Umbraxis]] y [[Ustraxis]].
+
 Ficha de Enemigo: https://5e.tools/bestiary.html#warlock%20of%20the%20great%20old%20one_mpmm
