@@ -147,11 +147,12 @@ Karma <font color="#00b0f0">Negativo</font>:
 ---
 ### Características del viaje
 
-| Nombre      | Especificaciones           |
-| ----------- | -------------------------- |
-| Capitana    | [[Dalavash Marhsu]]        |
-| Viaje       | 4 días                     |
-| Tripulación | 10 (con los protagonistas) |
+| Nombre      | Especificaciones                                  |
+| ----------- | ------------------------------------------------- |
+| Capitana    | [[Dalavash Marhsu]]                               |
+| Viaje       | 4 días                                            |
+| Tripulación | 10 (con los protagonistas)                        |
+| Karma       | El Karma no afectará en esta parte de la historia |
 
 Mapa del barco:
 	![[Ship_1.jpg]]
@@ -167,9 +168,11 @@ Hay un [[Umbraxis]], pero todavía no esta transformado, atacará el tercer dia.
 | Escarcha en el barco | en la escalera de acceso al barco existen unas pequeñas escarchas muy afiladas                                |
 | Sonidos de noche     | De vez en cuando de noche podéis escuchar sonidos de cristales muy inquietantes de cistales                   |
 
+- Si derrotan al Umbraxis sin bajas,
+
 En el barco no pasará nada mas solamente eso, después llegarán a a su destino, Les dejará al sur de las montañas de Thymos. 
 - <u>El grupo de piratas por su valentía proponen ir en grupo hasta el punto acordado.</u>
 
-| Si | NO    |
-| --------------- | --- |
-|            El grupo se ocultará a los goblins de los puestos  de guardia y     |     |
+| Si                                                                                    | NO                                                                                                         |
+| ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| El grupo se ocultará a los goblins de los puestos de guardia y pasaran desapercibidos | El grupo respetará su decisión pero dependiendo de su Karma, tendrán que superar a la guardia varias veces |
