@@ -39,4 +39,9 @@ Momento Tenso:
 
 <font color="#ff0000">Combates</font>
 	Titans: https://www.youtube.com/watch?v=WOgMAWAlPik&list=PLbHUA-o_5dgKIcvpPs10ftV9AdaV_hNN1&index=7
-	
+		Combates frenéticos:
+		- https://www.youtube.com/watch?v=MFOHjn3kUMo&list=PLbHUA-o_5dgKIcvpPs10ftV9AdaV_hNN1&index=15
+		- https://www.youtube.com/watch?v=KabE2KW9F34&list=PLbHUA-o_5dgKIcvpPs10ftV9AdaV_hNN1&index=16
+		- https://www.youtube.com/watch?v=WJYdNlNql38&list=PLbHUA-o_5dgKIcvpPs10ftV9AdaV_hNN1&index=23
+		Combates serios:
+		- https://www.youtube.com/watch?v=UOGisvIW_S0&list=PLbHUA-o_5dgKIcvpPs10ftV9AdaV_hNN1&index=18
