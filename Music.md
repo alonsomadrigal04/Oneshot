@@ -11,6 +11,11 @@ Camino a la ciudad (noche):
 	Music: https://www.youtube.com/watch?v=DQV76hQ12Co&list=PLbHUA-o_5dgLFhaZw8mfSW36kewuYBzQX
 
 Ciudad Pargid:
+	Ambiente: https://www.youtube.com/watch?v=8uRtW8lBe0I
+
+Ciudad Erdustard:
+	Ambiente: https://www.youtube.com/watch?v=ZYKrSjznbyo&t=1727s
+	
 
 Taberna escondida:
 	Ambiente: https://www.youtube.com/watch?v=Ag8sbpNXBEQ
