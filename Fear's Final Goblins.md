@@ -168,6 +168,7 @@ Hay un [[Umbraxis]], pero todavía no esta transformado, atacará el tercer dia.
 | Escarcha en el barco | en la escalera de acceso al barco existen unas pequeñas escarchas muy afiladas                                |
 | Sonidos de noche     | De vez en cuando de noche podéis escuchar sonidos de cristales muy inquietantes de cistales                   |
 
+- Antes de que aparezca el [[Umbraxis]], el viento habrá ces
 - Si derrotan al Umbraxis sin bajas, tendrán, -20pp de Karma extra.
 
 ### Eventos de relleno
