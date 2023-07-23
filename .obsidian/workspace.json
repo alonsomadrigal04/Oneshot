@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Umbraxis.md",
+                "file": "Archivos/Vax Matï.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Umbraxis.md",
+                "file": "Archivos/Vax Matï.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Umbraxis.md",
+                "file": "Archivos/Vax Matï.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Umbraxis.md"
+                "file": "Archivos/Vax Matï.md"
               }
             }
           },
@@ -233,8 +233,8 @@
   },
   "active": "95467957bb6da974",
   "lastOpenFiles": [
-    "Archivos/Vax Matï.md",
     "Umbraxis.md",
+    "Archivos/Vax Matï.md",
     "Fear's Final Goblins.md",
     "Music.md",
     "Imagenes/Ship_1.jpg",
