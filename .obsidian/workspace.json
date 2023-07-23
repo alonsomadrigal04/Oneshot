@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music.md",
+                "file": "Archivos/Umbraxis.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music.md",
+                "file": "Archivos/Umbraxis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music.md",
+                "file": "Archivos/Umbraxis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music.md"
+                "file": "Archivos/Umbraxis.md"
               }
             }
           },
@@ -233,10 +233,12 @@
   },
   "active": "95467957bb6da974",
   "lastOpenFiles": [
-    "Umbraxis.md",
+    "Music.md",
+    "Imagenes/7e341b5eae3a01db4da80a37856ec97c.jpg",
+    "Imagenes/7e341b5eae3a01db4da80a37856ec97c.jpg.opdownload",
+    "Archivos/Umbraxis.md",
     "Archivos/Vax Matï.md",
     "Fear's Final Goblins.md",
-    "Music.md",
     "Imagenes/Ship_1.jpg",
     "Personajes/Dalavash Marhsu.md",
     "Vertice/Muruth Erikel.md",
@@ -266,7 +268,6 @@
     "Imagenes/Default_Visualize_an_excessively_strong_dwarf_woman_defying_al_1_e2a09ace-b563-4bfd-922d-7c21aa2251cb_1.jpg",
     "Imagenes/Elf_1.png",
     "Imagenes/Leonardo_Diffusion_Atop_a_frozen_mountain_an_imposing_goliath_2.jpg",
-    "Imagenes/Leonardo_Diffusion_Gang_leader_woman_fantastic_world_overcast_0.jpg",
     "Vertice/Hut Nordvindr.md",
     "Imagenes/Leonardo_Diffusion_Imagine_a_satyr_with_a_small_youthful_body_1.jpg.opdownload",
     "Términos Nuevos.md",
