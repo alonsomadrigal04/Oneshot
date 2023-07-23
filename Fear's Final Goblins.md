@@ -168,7 +168,7 @@ Hay un [[Umbraxis]], pero todavía no esta transformado, atacará el tercer dia.
 | Escarcha en el barco | en la escalera de acceso al barco existen unas pequeñas escarchas muy afiladas                                |
 | Sonidos de noche     | De vez en cuando de noche podéis escuchar sonidos de cristales muy inquietantes de cistales                   |
 
-- Si derrotan al Umbraxis sin bajas,
+- Si derrotan al Umbraxis sin bajas, tendrán, -20pp de Karma extra.
 
 En el barco no pasará nada mas solamente eso, después llegarán a a su destino, Les dejará al sur de las montañas de Thymos. 
 - <u>El grupo de piratas por su valentía proponen ir en grupo hasta el punto acordado.</u>
@@ -176,3 +176,7 @@ En el barco no pasará nada mas solamente eso, después llegarán a a su destino
 | Si                                                                                    | NO                                                                                                         |
 | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | El grupo se ocultará a los goblins de los puestos de guardia y pasaran desapercibidos | El grupo respetará su decisión pero dependiendo de su Karma, tendrán que superar a la guardia varias veces |
+
+## LA PARTY VA CON EL GRUPO
+---
+
