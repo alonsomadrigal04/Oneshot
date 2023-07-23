@@ -157,4 +157,10 @@ Mapa del barco:
 	![[Ship_1.jpg]]
 
 ### Acontecimientos del barco
-Hay un [[Umbraxis]], pero todavia no esta transformado.
+Hay un [[Umbraxis]], pero todavía no esta transformado. Podrán sospechar si realizan un investigación a cada hombre del barco. Ven una marca de [[Crysalia]] (estas marcas consisten en determinadas runas en un territorio cercano al [[Umbraxis]] como marca de su existencia)
+
+### Eventos de apoyo
+
+| nombre | Evento |
+| ------ | ------ |
+|    Runa de [[Umbraxis]]    |        |
