@@ -168,11 +168,14 @@ Hay un [[Umbraxis]], pero todavía no esta transformado, atacará el tercer dia.
 | Escarcha en el barco | en la escalera de acceso al barco existen unas pequeñas escarchas muy afiladas                                |
 | Sonidos de noche     | De vez en cuando de noche podéis escuchar sonidos de cristales muy inquietantes de cistales                   |
 
-- Antes de que aparezca el [[Umbraxis]], el viento habrá ces
+- Antes de que aparezca el [[Umbraxis]], el viento habrá cesado por completo.
 - Si derrotan al Umbraxis sin bajas, tendrán, -20pp de Karma extra.
 
 ### Eventos de relleno
 
+| Nombre | Evento |
+| ------ | ------ |
+|     Hombre al agua   |   ¡Hombre al agua! Un miembro de la tripulación se cae por la borda durante las operaciones de rutina y ahora necesita ser rescatado antes de que se ahogue o las olas lo arrastren demasiado lejos para ser visto.     |
 
 En el barco no pasará nada mas solamente eso, después llegarán a a su destino, Les dejará al sur de las montañas de Thymos. 
 - <u>El grupo de piratas por su valentía proponen ir en grupo hasta el punto acordado.</u>
