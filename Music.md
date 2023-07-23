@@ -3,7 +3,7 @@ Comienzo:
 	Música: https://www.youtube.com/watch?v=zZxiJkwPJ10&list=PLbHUA-o_5dgI6tffbLSHhgBVx8j3Y42sg&index=32
 
 Camino a la ciudad:
-	Ambiente: 
+	Ambiente: https://www.youtube.com/watch?v=mBKG-WXcPNs
 	Musica: https://www.youtube.com/watch?v=_g75ilY59sk&list=PLbHUA-o_5dgI6tffbLSHhgBVx8j3Y42sg&index=18
 
 
