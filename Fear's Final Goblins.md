@@ -165,5 +165,6 @@ Hay un [[Umbraxis]], pero todavía no esta transformado, atacará el tercer dia.
 | -------------------- | ------------------------------------------------------------------------------------------------------------- |
 | Runa de [[Umbraxis]] | Antes de ir a dormir la criatura con más Pasive Percepción, podrá ver la runa brillar entre las cajas de proa |
 | Escarcha en el barco | en la escalera de acceso al barco existen unas pequeñas escarchas muy afiladas                                |
-| Sonidos de noche     | De vez en cuando de noche podéis escuchar sonidos de cristales muy inquietantes                                |
+| Sonidos de noche     | De vez en cuando de noche podéis escuchar sonidos de cristales muy inquietantes de cistales                   |
 
+En el barco no pasará nada mas solamente eso, después llegarán a a su destino, no les dejarán en el puerto del sur

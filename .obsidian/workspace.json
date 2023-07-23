@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music.md",
+                "file": "Fear's Final Goblins.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music.md",
+                "file": "Fear's Final Goblins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music.md",
+                "file": "Fear's Final Goblins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music.md"
+                "file": "Fear's Final Goblins.md"
               }
             }
           },
@@ -231,8 +231,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35b544b7a679a609",
+  "active": "95467957bb6da974",
   "lastOpenFiles": [
+    "Music.md",
     "Fear's Final Goblins.md",
     "Archivos/Crysalia.md",
     "Archivos/Vax Matï.md",
@@ -245,7 +246,6 @@
     "Imagenes/559dbf11dbcdd0ddba9b4c9d4ce8fb8b.jpg.opdownload",
     "Imagenes/Vax_Matï.jpg",
     "Imagenes/Vax_Matï.jpg.opdownload",
-    "Music.md",
     "Imagenes/7e341b5eae3a01db4da80a37856ec97c.jpg",
     "Imagenes/7e341b5eae3a01db4da80a37856ec97c.jpg.opdownload",
     "Imagenes/Ship_1.jpg",

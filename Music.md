@@ -31,6 +31,9 @@ Zarpar el Barco:
 	Ambiente: https://www.youtube.com/watch?v=beOw8MEojQ4
 	Música: https://www.youtube.com/watch?v=UgrFlGuloVE&list=PLbHUA-o_5dgI6tffbLSHhgBVx8j3Y42sg&index=34
 
+Marineros cantando:
+	https://www.youtube.com/watch?v=uicC2MUZ24I
+
 Interior de un barco: 
 	Ambiente: https://www.youtube.com/watch?v=7JZ4uBJLJ60&t=1s
 
