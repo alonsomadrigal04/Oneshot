@@ -156,3 +156,5 @@ Karma <font color="#00b0f0">Negativo</font>:
 Mapa del barco:
 	![[Ship_1.jpg]]
 
+### Acontecimientos del barco
+Hay un 
