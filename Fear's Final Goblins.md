@@ -141,6 +141,8 @@ Karma <font color="#00b0f0">Negativo</font>:
 
 - Un joven fuerte visiona a los <font color="#00b050">Goblins</font> desde la lejanía y los sigue en todo momento, cuando el grupo se esta resguardando y/o ocultando sale a presentarse, se llama [[Uradur Vintel]], y quiere ayudarlos a coger el barco que cogerán.
 
+- Hay un par de Barcos mercantiles pero ellos no los puede coger hay mucha gente, pero hay un barco de una supuesta pirata que transporta a la gente a donde quieran sin hacer muchas preguntas.
+
 ## <font color="#ffc000">VIAJE HACIA EL CAMPAMENTO</font>
 ---
 ### Características del viaje

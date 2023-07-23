@@ -5,5 +5,5 @@ Aspecto:
 Casa: <u>Kerindell</u>
 
 Actitud:
-	Es agradable apesar de su aspecto rudo, sabe relacionarse con los demas y sabe convencer a la gente, 
+	Es agradable a pesar de su aspecto rudo, sabe relacionarse con los demás y sabe convencer a la gente, sabe como manipular a la gente para que acabe haciendo lo que el quiere en un principio. Pero no quiere causar ningún mal a nadie.
 
