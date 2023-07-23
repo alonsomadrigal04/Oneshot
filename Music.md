@@ -36,3 +36,7 @@ Interior de un barco:
 
 Momento Tenso:
 	https://www.youtube.com/watch?v=KjJQ4uTVvvg&t=336s
+
+<font color="#ff0000">Combates</font>
+	Titans: https://www.youtube.com/watch?v=WOgMAWAlPik&list=PLbHUA-o_5dgKIcvpPs10ftV9AdaV_hNN1&index=7
+	
