@@ -154,6 +154,6 @@ Karma <font color="#00b0f0">Negativo</font>:
 | Tripulación | 10 (con los protagonistas) |
 
 Mapa del barco:
-	
+	![[Ship_1.jpg]]
 
 El viaje estará aproximado a 4 días en barco.
