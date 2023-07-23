@@ -6,3 +6,5 @@ Criatura sacada de la tormenta de Cristal, cualquier criatura que toque una gota
 Si una gota de La tormenta te toca, tienes que superar la siguiente prueba:
 tienes 6 slots, 3 de aciertos y 3 de fallos. Cada 12h tienes que tirar un dado de (15) constitución. Si fallas las 3 veces te convertirás en un Umbraxis.
 
+Despues de un tiempo estipulado de 1 alrededor de 1 o 2 meses los Umbraxis se convierten en [[Ustraxis]], es la forma evolucionada de las criaturas a las que preceden.
+

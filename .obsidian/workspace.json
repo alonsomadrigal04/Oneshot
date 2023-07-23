@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archivos/Ustraxis.md",
+                "file": "Archivos/Umbraxis.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archivos/Ustraxis.md",
+                "file": "Archivos/Umbraxis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archivos/Ustraxis.md",
+                "file": "Archivos/Umbraxis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archivos/Ustraxis.md"
+                "file": "Archivos/Umbraxis.md"
               }
             }
           },
@@ -233,11 +233,13 @@
   },
   "active": "95467957bb6da974",
   "lastOpenFiles": [
-    "Imagenes/559dbf11dbcdd0ddba9b4c9d4ce8fb8b.jpg",
-    "Imagenes/559dbf11dbcdd0ddba9b4c9d4ce8fb8b.jpg.opdownload",
+    "Archivos/Vax Matï.md",
+    "Archivos/Vértice Arcano.md",
     "Archivos/Umbraxis.md",
     "Archivos/Ustraxis.md",
-    "Archivos/Vax Matï.md",
+    "Archivos/Crysalia.md",
+    "Imagenes/559dbf11dbcdd0ddba9b4c9d4ce8fb8b.jpg",
+    "Imagenes/559dbf11dbcdd0ddba9b4c9d4ce8fb8b.jpg.opdownload",
     "Imagenes/Vax_Matï.jpg",
     "Imagenes/Vax_Matï.jpg.opdownload",
     "Music.md",
@@ -258,7 +260,6 @@
     "Archivos/Origen de las Casas.md",
     "Personajes",
     "Vertice/Ka Mach Eriskal.md",
-    "Archivos/Vértice Arcano.md",
     "Items/Blade of Medusa.md",
     "Items/Items.md",
     "Items/Axe of Sorrow.md",
@@ -271,7 +272,6 @@
     "Vertice/Jön Pargid.md",
     "Vertice/Helios Kerman.md",
     "Imagenes/Default_Visualize_an_excessively_strong_dwarf_woman_defying_al_1_e2a09ace-b563-4bfd-922d-7c21aa2251cb_1.jpg",
-    "Imagenes/Elf_1.png",
     "Vertice/Hut Nordvindr.md",
     "Imagenes/Leonardo_Diffusion_Imagine_a_satyr_with_a_small_youthful_body_1.jpg.opdownload",
     "Términos Nuevos.md",
