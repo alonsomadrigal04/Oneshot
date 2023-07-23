@@ -145,8 +145,9 @@ Karma <font color="#00b0f0">Negativo</font>:
 ---
 ### Características del viaje
 
-| Nombre | Especificaciones |
-| ------ | ---------------- |
-|  Capitan      |    Galavarsta, (45)              |
+| Nombre  | Especificaciones               |
+| ------- | ------------------------------ |
+| Capitan | Galavarsta, (45), Kalashtar |
+|         |                                |
 
 El viaje estará aproximado a 4 días en barco.
