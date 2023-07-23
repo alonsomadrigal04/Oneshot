@@ -147,10 +147,13 @@ Karma <font color="#00b0f0">Negativo</font>:
 ---
 ### Características del viaje
 
-| Nombre   | Especificaciones    |
-| -------- | ------------------- |
-| Capitana | [[Dalavash Marhsu]] |
-| Viaje    | 4 dias              |
-| Trip         |                     |
+| Nombre      | Especificaciones           |
+| ----------- | -------------------------- |
+| Capitana    | [[Dalavash Marhsu]]        |
+| Viaje       | 4 días                     |
+| Tripulación | 10 (con los protagonistas) |
+
+Mapa del barco:
+	
 
 El viaje estará aproximado a 4 días en barco.
