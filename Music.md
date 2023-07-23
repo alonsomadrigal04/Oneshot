@@ -8,8 +8,9 @@ Camino a la ciudad (dia):
 
 Camino a la ciudad (noche):
 	Ambiente: https://www.youtube.com/watch?v=UDFv8ai-SbU
-	Music: 
+	Music: https://www.youtube.com/watch?v=DQV76hQ12Co&list=PLbHUA-o_5dgLFhaZw8mfSW36kewuYBzQX
 
+Ciudad Pargid:
 
 Conocer a Dala:
 	Musica: https://www.youtube.com/watch?v=0S-18JvB8io&list=PLbHUA-o_5dgLFhaZw8mfSW36kewuYBzQX&index=14
@@ -20,4 +21,4 @@ Zarpar el Barco:
 	Música: https://www.youtube.com/watch?v=UgrFlGuloVE&list=PLbHUA-o_5dgI6tffbLSHhgBVx8j3Y42sg&index=34
 
 Interior de un barco: 
-	https://www.youtube.com/watch?v=7JZ4uBJLJ60&t=1s
+	Ambiente: https://www.youtube.com/watch?v=7JZ4uBJLJ60&t=1s
