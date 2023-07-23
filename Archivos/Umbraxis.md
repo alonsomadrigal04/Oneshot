@@ -9,5 +9,5 @@ tienes 6 slots, 3 de aciertos y 3 de fallos. Cada 12h tienes que tirar un dado d
 Despues de un tiempo estipulado de 1 alrededor de 1 o 2 meses los Umbraxis se convierten en [[Ustraxis]], es la forma evolucionada de las criaturas a las que preceden.
 
 Ficha:
-	
+	![[Captura de pantalla 2023-07-23 225923.png]]
 
