@@ -6,7 +6,8 @@ Casa:  <u>Pargid</u>, Warrior
 
 
 Información que proporciona:
-	
+	Leonardo con solo preguntar os contará lo que sabe, aunque no sabe demasiado:
+	"Solo se que nuestra mision principal, si conseguimos pasar las pruebas, se limitará a que tendremos que ir al centro de la tormenta y destruir aquello que e"
 
 Ficha de combate:
 	![[Pasted image 20230724124712.png]]
