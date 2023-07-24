@@ -191,6 +191,11 @@ En el barco no pasará nada mas solamente eso, después llegarán a a su destino
 ---
 Encontrarán varios puestos de guarida pero pasaran desapercibidos puesto que les ocultarán en el carromato que han saqueado.
 
+Ambiente de carromato:
+	https://www.youtube.com/watch?v=m2qKpoIxXB8&list=PLbHUA-o_5dgKC2cceCmxVp7JAdmsb6r51&index=2
+
+Aquí podrán hablar tanto con [[Uradur Vintel]] como con [[Leonardo Irideluar]], descubrir lo que saben sobre [[Crysalia]] y recopilar información útil.
+
 
 ## <font color="#ffc000">LA PARTY DECIDE IR POR SU CUENTA</font>
 ---
