@@ -189,6 +189,8 @@ En el barco no pasará nada mas solamente eso, después llegarán a a su destino
 
 ## <font color="#ffc000">LA PARTY VA CON EL GRUPO</font>
 ---
+Encontrarán varios puestos de guarida pero pasaran desapercibidos puesto que les ocultarán en el carromato que han saqueado.
+
 
 ## <font color="#ffc000">LA PARTY DECIDE IR POR SU CUENTA</font>
 ---
