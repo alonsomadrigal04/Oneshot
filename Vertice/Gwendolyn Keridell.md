@@ -3,7 +3,7 @@ Imagen:
 
 Casa: Kerindell
 Localización: sur de Varys.
-Ciudad: 
+Ciudad: <u>Galandris</u>
 
 Descripción:
 

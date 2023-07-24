@@ -6,7 +6,7 @@ Casa: <u>Kerindell</u>
 
 Información que proporciona:
 	Si se le soborna con una buena cantidad de dinero se lo dirá:
-	"Lo unico que se sobre esta extraña tormenta es lo que me han contado la guardia de "
+	"Lo único que se sobre esta extraña tormenta es lo que me han contado la guardia de <u>Galandris</u>, es conocido que la temible tormenta es capaz de convertirte en abominables criaturas que pierden el control de su cuerpo. Pero ademas se que hay dos criaturas mas aparte de las que hemos visto"
 
 Actitud:
 	Es agradable a pesar de su aspecto rudo, sabe relacionarse con los demás y sabe convencer a la gente, sabe como manipular a la gente para que acabe haciendo lo que el quiere en un principio. Pero no quiere causar ningún mal a nadie.
