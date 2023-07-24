@@ -4,5 +4,12 @@ Aspecto:
 
 Casa:  <u>Pargid</u>, Warrior
 
+
+Informacióna que proporciona:
+	
+
+Ficha de combate:
+	https://5e.tools/bestiary.html#giff_mpmm
+
 Actitud:
 	Es un Giff muy amistoso, debido a su longeva edad ve a todos como unos buenos aventureros respetables, y pese a la mala reputación de los goblins, tiene especial interés en el grupo y les querrá ayudar siempre que sea posible.
