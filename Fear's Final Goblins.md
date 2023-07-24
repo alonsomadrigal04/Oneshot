@@ -173,11 +173,12 @@ Hay un [[Umbraxis]], pero todavía no esta transformado, atacará el tercer dia.
 
 ### Eventos de relleno
 
-| Nombre            | Evento                                                                                                                                                                                |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Hombre al agua    | [[Uradur Vintel]] se cae por la borda durante las operaciones de rutina y ahora necesita ser rescatado antes de que se ahogue o las olas lo arrastren demasiado lejos para ser visto. |
-| Pelea por literas | Dos tripulantes se pelean por quién se queda con la litera superior. ¡Están en la garganta del otro! ¿Quizás esto se trata de algo más que la cama?                                   |
-|                   |                                                                                                                                                                                       |
+| Nombre            | Evento                                                                                                                                                                                                                                                         |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Hombre al agua    | [[Uradur Vintel]] se cae por la borda durante las operaciones de rutina y ahora necesita ser rescatado antes de que se ahogue o las olas lo arrastren demasiado lejos para ser visto.                                                                          |
+| Pelea por literas | Dos tripulantes se pelean por quién se queda con la litera superior. ¡Están en la garganta del otro! ¿Quizás esto se trata de algo más que la cama?                                                                                                            |
+| Peces raros       | Un banco espectral de peces fantasmas sigue al barco. Aunque no causan daño, ahuyentan a los peces vivos y emiten una luz espantosa y un ruido espeluznante en todo momento del día. Algunos incluso han comenzado a 'nadar' en la cubierta y en los pasillos. |
+| Viento de crystal | Un pequeño viento de poniente viene cargado de una especie de polvora cristalina que no se habia visto antes, la capitana puede que les cuente algo                                                                                                            |
 
 En el barco no pasará nada mas solamente eso, después llegarán a a su destino, Les dejará al sur de las montañas de Thymos. 
 - <u>El grupo de piratas por su valentía proponen ir en grupo hasta el punto acordado.</u>
