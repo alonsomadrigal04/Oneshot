@@ -201,4 +201,7 @@ Aquí podrán hablar tanto con [[Uradur Vintel]] como con [[Leonardo Irideluar]]
 ---
 Tardarán una noche mas de lo previsto por fuertes vientos que impiden viajar demasiado. 
 
-Mientras descansan un soldado sin querer a dado con su puesto en medio del bosque. Estaba huyendo de su campamento, según el, el campamento ha empezado a emparanoiarse y dice que estaban matando a varios guardias que venían del sur. La party no lo sabe pero esta infectado por [[Crysalia]], y solamente le  
+Mientras descansan un soldado sin querer a dado con su puesto en medio del bosque. Estaba huyendo de su campamento, según el, el campamento ha empezado a emparanoiarse y dice que estaban matando a varios guardias que venían del sur. 
+
+- Si tienen el Karma positivo: El soldado se convertirá en un [[Umbraxis]] en mitad de su recorrido y si lo derrotan soltará:
+- Si tienen el Karma negativo, el soldado no se infectará y se curará, además, si 
