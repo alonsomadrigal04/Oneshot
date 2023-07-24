@@ -203,7 +203,7 @@ Tardarán una noche mas de lo previsto por fuertes vientos que impiden viajar de
 
 Mientras descansan un soldado sin querer a dado con su puesto en medio del bosque. Estaba huyendo de su campamento, según el, el campamento ha empezado a emparanoiarse y dice que estaban matando a varios guardias que venían del sur. 
 
-- Si tienen el Karma positivo: El soldado se convertirá en un [[Umbraxis]] en mitad de su recorrido y si lo derrotan soltará:
+- Si tienen el Karma positivo: El soldado se convertirá en un [[Umbraxis]] en mitad de su recorrido y si lo derrotan soltará: 2 chromatic Rose blancas.
 - Si tienen el Karma negativo, el soldado no se infectará y se curará, además, si le ayudan les ayudará a pasar el control desapercibidos.
 
 - Si la Party ataca a pesar de todo al Soldado, este les marcará como fugitivos y todo será mas difícil. 
