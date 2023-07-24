@@ -4,6 +4,9 @@ Aspecto:
 
 Casa: <u>Kerindell</u>
 
+Ficha de combate:
+	https://5e.tools/bestiary.html#eternal%20flame%20priest_pota
+
 Información que proporciona:
 	Si se le soborna con una buena cantidad de dinero se lo dirá:
 	<font color="#245bdb">"Lo único que se sobre esta extraña tormenta es lo que me han contado la guardia de <u>Galandris</u>, es conocido que la temible tormenta es capaz de convertirte en abominables criaturas que pierden el control de su cuerpo. Pero además se que hay dos criaturas mas aparte de las que hemos visto, a la que conocimos en el barco se llama Umbraxis, hay algunas criaturas conocidas como Ustraxis que son como los Umbraxis pero con un poder mucho más elevado, y por último los terribles Vax Matï"</font>
