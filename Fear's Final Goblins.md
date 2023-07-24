@@ -199,4 +199,4 @@ Aquí podrán hablar tanto con [[Uradur Vintel]] como con [[Leonardo Irideluar]]
 
 ## <font color="#ffc000">LA PARTY DECIDE IR POR SU CUENTA</font>
 ---
-Tardarán una noche mas de lo previsto por fuertes vientos que impiden viajar demasiado. Mientras descansan, 
+Tardarán una noche mas de lo previsto por fuertes vientos que impiden viajar demasiado. Mientras descansan un soldado sin querer a dado con su puesto en medio del bosq
