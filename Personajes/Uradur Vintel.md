@@ -4,6 +4,10 @@ Aspecto:
 
 Casa: <u>Kerindell</u>
 
+coletillas:
+	**Que ardan los cielos**
+	**Que las llamas guíen mi/tu camino**
+
 Ficha de combate:
 	https://5e.tools/bestiary.html#eternal%20flame%20priest_pota
 

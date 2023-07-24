@@ -8,7 +8,7 @@ Casa:  <u>Pargid</u>, Warrior
 Suelta frases como: 
 - **"¡Patente y sellado por un Giff!"**
 - **"¡Bah, eso es pan comido!":**
-- 
+
 Información que proporciona:
 	Leonardo con solo preguntar os contará lo que sabe, aunque no sabe demasiado:
 	"Solo se que nuestra misión principal, si conseguimos pasar las pruebas, se limitará a que tendremos que ir al centro de la tormenta y destruir aquello que la está originando. Lo que no se es como vamos a llegar hasta allí dentro ¡Nos convertiremos en esas horrorosas criaturas!"
