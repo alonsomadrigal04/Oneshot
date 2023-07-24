@@ -5,7 +5,8 @@ Aspecto:
 Casa: <u>Kerindell</u>
 
 Información que proporciona:
-	
+	Si se le soborna con una buena cantidad de dinero se lo dirá:
+	"Lo unico que se sobre esta extraña tormenta es lo que me han contado la guardia de "
 
 Actitud:
 	Es agradable a pesar de su aspecto rudo, sabe relacionarse con los demás y sabe convencer a la gente, sabe como manipular a la gente para que acabe haciendo lo que el quiere en un principio. Pero no quiere causar ningún mal a nadie.
