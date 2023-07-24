@@ -18,3 +18,6 @@ Ficha de combate:
 
 Actitud:
 	Es un Giff muy amistoso, debido a su longeva edad ve a todos como unos buenos aventureros respetables, y pese a la mala reputación de los goblins, tiene especial interés en el grupo y les querrá ayudar siempre que sea posible.
+
+Clave de Lore:
+	Tiene una marca de un tatuaje en la mano derecha.
