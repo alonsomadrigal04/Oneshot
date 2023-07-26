@@ -207,3 +207,5 @@ Mientras descansan un soldado sin querer a dado con su puesto en medio del bosqu
 - Si tienen el Karma negativo, el soldado no se infectará y se curará, además, si le ayudan les ayudará a pasar el control desapercibidos.
 
 - Si la Party ataca a pesar de todo al Soldado, este les marcará como fugitivos y todo será mas difícil. 
+
+# <font color="#ffc000">LAS PRUEBAS</font>
