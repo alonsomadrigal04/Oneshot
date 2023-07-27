@@ -217,7 +217,11 @@ Mapa Cuartel General:
 	![[Torre de vigilantes.png]]
 
 
-"Cuando llegáis al punto indicado en el pergamino, podéis ver en la lejanía una gran torre negra, la fria y aspera nieve roza gentilmente con vuestros botines. Hace una temeratura bastante baja, pero sin embargo podeis resistir el frio, ya que habeis aguantado las agudas rafagas de viuento de las montañas de Prötá d"
+"Cuando llegáis al punto indicado en el pergamino, podéis ver en la lejanía una gran torre negra, la fría y áspera nieve roza gentilmente con vuestros botines. Hace una temperatura bastante baja, pero sin embargo podéis resistir el frio, ya que habéis aguantado las agudas ráfagas de viento de las montañas de Prötá desde que tenéis uso de razón.
+
+Mientras os vais acercando, un medio elfo con un traje marrón y unas gafas circulares se acerca al grupo. Y podéis ver en su cara un gesto de extrañeza y sorpresa, pero ignorando ese sentimiento firme os pregunta. "¡Identificaros!". "
+
+"Despues de "
 
 
 
