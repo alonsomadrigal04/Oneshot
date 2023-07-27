@@ -227,11 +227,14 @@ Una vez asignada la tienda de campaña, Dortumil les informa que han llegado pro
 
 A [[Uradur Vintel]] y [[Leonardo Irideluar]], les han puesto en el escuadrón numero 14, en una tienda de campaña cerca de la suya.
 
-Dependiendo de su Karma
+Dependiendo de su Karma;
 
-| Positivo | Negativo |
-| -------- | -------- |
-|    Los demas participantes de las pruebas de las tiendas de al lado, tienen una mirada despectiva       |          |
+| <font color="#ff0000">Positivo</font>                                                                                                                                                      | <font color="#00b0f0">Negativo</font>                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Los demás participantes de las pruebas de las tiendas de al lado, tienen una mirada despectiva hacia ellos e incluso oyen quejarse de por que están con ellos | Los demás participantes de las pruebas de las tiendas de al lado, son amigables con ellos, los invitan a una fiesta en una taberna a las afueras de ciudad Ventur |
+
+### Fiesta en una taberna
+---
 
 
 
