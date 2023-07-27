@@ -221,7 +221,9 @@ Mapa Cuartel General:
 
 Mientras os vais acercando, un medio elfo con un traje marrón y unas gafas circulares se acerca al grupo. Y podéis ver en su cara un gesto de extrañeza y sorpresa, pero ignorando ese sentimiento firme os pregunta. "¡Identificaros!". "
 
-El Guarda se llama "Dortumil" (si preguntan), el les dará instrucciones y le asignaran un al grupo el nombre de "escuadrón numero 13".  Les informa que el mismísimo [[Jön Pargid]], a nombrado al llamado [[Comandante Eterno]], es el que lleva esta misión adelante y les envía los resultados al Vertice.
+El Guarda se llama "Dortumil" (si preguntan), el les dará instrucciones y le asignaran un al grupo el nombre de "escuadrón numero 13".  Les informa que el mismísimo [[Jön Pargid]], a nombrado al llamado [[Comandante Eterno]], es el que lleva esta misión adelante y les envía los resultados al Vértice.
+
+Una vez asignada la tienda de campaña, Dortumil les informa que han llegado pronto y que mañana por la mañana comenzarán las pruebas, les advierte que son individuales, y que cada tendra su propia responsabilidad. 
 
 
 
