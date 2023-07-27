@@ -265,7 +265,13 @@ Dinámica:
 	Mejor narrativa: +7
 	Mala tirada: -2
 	Heridas en batalla: -1
-	
+	Metedura de pata: -4
+	Llamada de atención: -2
+	Fuego inocente: -7
+	Falta de respeto al comandante: -15
+	Si el puntaje es +15 podrán optar a ser jefes de escuadrón.
+	Si el puntaje es -20, serán reunidos con el [[Comandante Eterno]].
+	Si el puntaje es -30, serán expulsados del campamento.
 
 - "La primera es la mas sencilla de todas, consta de levantar un campamento improvisado en el menor tiempo posible"
 - "Tenéis que utilizar vuestra mayor maestría con vuestras mejores armas para asesinar a este muñeco de prueba"
