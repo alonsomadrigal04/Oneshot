@@ -243,3 +243,7 @@ Si van a la taberna conocerán a [[Edorrin, Anciano viajero]].
 ---
 Si deciden no ir no conocerán aun a [[Edorrin, Anciano viajero]].
 - Se quedarán con [[Leonardo Irideluar]], el cual prefería no ir a la taberna, no le gustan los lugares de festejos, los considera un delito para el conocimiento. Solo comentara que conoce ciertos rumores sobre el 6to peligro.
+
+
+## <font color="#ffc000">Dia de las pruebas</font>
+---
