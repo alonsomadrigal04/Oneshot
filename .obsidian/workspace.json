@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personajes/Anciano viajero.md",
+                "file": "Fear's Final Goblins.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personajes/Anciano viajero.md",
+                "file": "Fear's Final Goblins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personajes/Anciano viajero.md",
+                "file": "Fear's Final Goblins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personajes/Anciano viajero.md"
+                "file": "Fear's Final Goblins.md"
               }
             }
           },
@@ -164,11 +164,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35b544b7a679a609",
+  "active": "99f88fdd063d39a2",
   "lastOpenFiles": [
-    "Imagenes/Default_Tiefling_with_a_wise_and_kindly_appearance_has_a_small_0_1883b930-3593-471c-a131-7a22654b419d_1.jpg",
+    "Vertice/Selene Galdaris.md",
+    "Personajes/Edorrin, Anciano viajero.md",
     "Fear's Final Goblins.md",
-    "Personajes/Anciano viajero.md",
+    "Imagenes/Default_Tiefling_with_a_wise_and_kindly_appearance_has_a_small_0_1883b930-3593-471c-a131-7a22654b419d_1.jpg",
     "Personajes/Leonardo Irideluar.md",
     "Music.md",
     "Imagenes/Default_human_skeleton_friendly_looking_with_military_uniform_0_8a357b80-84a2-46d7-b8b6-8bbd1c216b1d_1.jpg",
@@ -195,7 +196,6 @@
     "Imagenes/Ship_1.jpg",
     "Imagenes/Pasted image 20230724124712.png",
     "Imagenes/Leonardo_Diffusion_Imagine_a_triton_with_fins_and_gills_but_wi_0.jpg",
-    "Imagenes/Leonardo_Diffusion_High_elf_with_fire_red_hair_in_a_dress_of_b_1.jpg",
     "Vertice/Gwendolyn Keridell.md",
     "Uradur.md",
     "Imagenes/559dbf11dbcdd0ddba9b4c9d4ce8fb8b.jpg.opdownload",
@@ -203,7 +203,6 @@
     "Imagenes/7e341b5eae3a01db4da80a37856ec97c.jpg.opdownload",
     "Vertice/Muruth Erikel.md",
     "Vertice/Runa Eldrunir.md",
-    "Vertice/Selene Galdaris.md",
     "Vertice/Denves Ventalis.md",
     "Personajes",
     "Vertice/Ka Mach Eriskal.md",
