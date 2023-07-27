@@ -6,4 +6,4 @@ Aspecto:
 Casa: <u>Pargid</u>
 
 Actitud:
-	Individualemnte es un general muy bondadoso que sube la moral de cada uno de sus lacayos, pero cuando tiene que tomar el mando de una multitud su craneo cambia de forma a un ros
+	Individualmente es un general muy bondadoso que sube la moral de cada uno de sus lacayos, pero cuando tiene que tomar el mando de una multitud su cráneo cambia de forma a un rostro lleno de ira, sus palabras bondadosas a unas llenas de dureza y su actitud afable a la de un autentico militar estricto.
