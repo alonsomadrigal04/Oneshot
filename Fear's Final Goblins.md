@@ -233,10 +233,12 @@ Dependiendo de su Karma;
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Los demás participantes de las pruebas de las tiendas de al lado, tienen una mirada despectiva hacia ellos e incluso oyen quejarse de por que están con ellos | Los demás participantes de las pruebas de las tiendas de al lado, son amigables con ellos, los invitan a una fiesta en una taberna a las afueras de ciudad Ventur |
 
-### Fiesta en una taberna
+### <font color="#ffc000">Fiesta en una taberna</font>
 ---
 
 Si van a la taberna conocerán a Endorrin, el [[Edorrin, Anciano viajero]]. 
 - Por curiosidad se acerca al grupo y les empieza a contar la historia de su pueblo. Justo antes de que pudiera acabar la historia llegan unos guardias de Ventur y obliga a retirarse.
 
+### <font color="#ffc000">Descanso hasta la mañana</font>
+---
 
