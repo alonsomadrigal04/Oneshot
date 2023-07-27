@@ -227,6 +227,12 @@ Una vez asignada la tienda de campaña, Dortumil les informa que han llegado pro
 
 A [[Uradur Vintel]] y [[Leonardo Irideluar]], les han puesto en el escuadrón numero 14, en una tienda de campaña cerca de la suya.
 
+Dependiendo de su Karma
+
+| Positivo | Negativo |
+| -------- | -------- |
+|    Los demas participantes de las pruebas de las tiendas de al lado, tienen una mirada despectiva       |          |
+
 
 
 
