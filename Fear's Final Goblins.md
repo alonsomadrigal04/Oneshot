@@ -250,4 +250,4 @@ Si deciden no ir no conocerán aun a [[Edorrin, Anciano viajero]].
 Una voz seca y amplificada os penetra los oídos, vuestros ojos pueden ver a una criatura humanoide en la entrada del cuartel general. Al lado podéis ver al guardia que os había hablado por primera vez (Dortumil). Después de ser levantados por el medio elfo, podéis ver como la figura se gira poco a poco, y podéis ver una perfecta calavera de un color oseo pálido. 
 
 Un esqueleto perfectamente parado sobre si mismo, y dé repente podéis ver como su cabeza comienza a dar vueltas y a obtener un color mas rojizo y lo que serian sus cejas empiezan a fruncirse dándole un aspecto de furia,
-"Perfecto cachos de mierda, estais aqui para demostrar la valia que habeis prometido tener."
+"Perfecto cachos de mierda, estáis en este excluido y decrepito lugar para demostrar la valía que habéis prometido tener. Todo aquel que espere bondad será automáticamente expulsado con la peor de las humillaciones posibles, espero que hayáis traído algo de energía de la noche de lujuria de ayer panda de gandules come mierda. "
