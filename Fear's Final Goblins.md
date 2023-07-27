@@ -260,4 +260,4 @@ Después de tan agresivo discurso, su cabeza volvió a girar y se volvió del mi
 ---
 - "La primera es la mas sencilla de todas, consta de levantar un campamento improvisado en el menor tiempo posible"
 - "Tenéis que utilizar vuestra mayor maestría con vuestras mejores armas para asesinar a este muñeco de prueba"
-- "Bien ahora que ya habéis hecho suficiente el ridículo, quiero que recorráis esta ruta en el menor tiempo posible, y si me traéis algún obsequio, estaré mas contento con el que me lo traiga. Me activa las glandulas sud"
+- "Bien ahora que ya habéis hecho suficiente el ridículo, quiero que recorráis esta ruta en el menor tiempo posible, y si me traéis algún obsequio, estaré mas contento con el que me lo traiga. Me activaría la glándulas sudoríparas de mis miembros si tuviera lo que me traigáis"
