@@ -237,6 +237,6 @@ Dependiendo de su Karma;
 ---
 
 Si van a la taberna conocerán a Endorrin, el [[Edorrin, Anciano viajero]]. 
-- Por curiosidad se acerca al grupo y les empieza a contar la historia de su pueblo. 
+- Por curiosidad se acerca al grupo y les empieza a contar la historia de su pueblo. Justo antes de que pudiera acabar la historia llegan unos guardias de Ventur y obliga a retirarse.
 
 
