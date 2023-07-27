@@ -266,3 +266,5 @@ Mapa:
 
 
 - "Como ultima prueba, os endentareis en grupo de escuadrón a un [[Umbraxis]], son bestias temibles y no dejéis que os toquen, JAJAJAJAJAJA"
+
+- "Perfecto sacos inútiles de escoria, cuando el sol deje de iluminar vuestro malolientes cuerpos, daremos pas"
