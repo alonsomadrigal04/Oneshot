@@ -236,6 +236,6 @@ Dependiendo de su Karma;
 ### Fiesta en una taberna
 ---
 
-Si van a la taberna conocerán a Endorrin, el Anciano viajero. 
+Si van a la taberna conocerán a Endorrin, el [[Anciano viajero]]. 
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fear's Final Goblins.md",
+                "file": "Anciano viajero.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fear's Final Goblins.md",
+                "file": "Anciano viajero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fear's Final Goblins.md",
+                "file": "Anciano viajero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fear's Final Goblins.md"
+                "file": "Anciano viajero.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "99f88fdd063d39a2",
   "lastOpenFiles": [
-    "Personajes/Leonardo Irideluar.md",
     "Fear's Final Goblins.md",
+    "Anciano viajero.md",
+    "Personajes/Leonardo Irideluar.md",
     "Music.md",
     "Imagenes/Default_human_skeleton_friendly_looking_with_military_uniform_0_8a357b80-84a2-46d7-b8b6-8bbd1c216b1d_1.jpg",
     "Personajes/Comandante Eterno.md",
