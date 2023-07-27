@@ -247,3 +247,5 @@ Si deciden no ir no conocerán aun a [[Edorrin, Anciano viajero]].
 
 ## <font color="#ffc000">Dia de las pruebas</font>
 ---
+Una voz seca y amplificada os penetra los oídos, vuestros ojos pueden ver a una criatura humanoide en la entrada del cuartel general. Al lado podéis ver al guardia que os había hablado por primera vez (Dortumil). Despues de ser levantados
+""
