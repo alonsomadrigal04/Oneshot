@@ -223,7 +223,9 @@ Mientras os vais acercando, un medio elfo con un traje marrón y unas gafas circ
 
 El Guarda se llama "Dortumil" (si preguntan), el les dará instrucciones y le asignaran un al grupo el nombre de "escuadrón numero 13".  Les informa que el mismísimo [[Jön Pargid]], a nombrado al llamado [[Comandante Eterno]], es el que lleva esta misión adelante y les envía los resultados al Vértice.
 
-Una vez asignada la tienda de campaña, Dortumil les informa que han llegado pronto y que mañana por la mañana comenzarán las pruebas, les advierte que son individuales, y que cada tendra su propia responsabilidad. 
+Una vez asignada la tienda de campaña, Dortumil les informa que han llegado pronto y que mañana por la mañana comenzarán las pruebas, les advierte que son individuales, y que nada sirve ir en grupo a las pruebas. 
+
+A [[Uradur Vintel]]
 
 
 

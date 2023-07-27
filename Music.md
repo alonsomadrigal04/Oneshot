@@ -40,6 +40,10 @@ Interior de un barco:
 Momento Tenso:
 	https://www.youtube.com/watch?v=KjJQ4uTVvvg&t=336s
 
+Capitán Eterno:
+	https://www.youtube.com/watch?v=FwQYYXIQjGA
+	https://www.youtube.com/watch?v=0S-18JvB8io&list=PLbHUA-o_5dgLFhaZw8mfSW36kewuYBzQX&index=14
+
 <font color="#ff0000">Combates</font>
 	Titans: https://www.youtube.com/watch?v=WOgMAWAlPik&list=PLbHUA-o_5dgKIcvpPs10ftV9AdaV_hNN1&index=7
 		Combates frenéticos:
