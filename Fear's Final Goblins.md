@@ -225,7 +225,8 @@ El Guarda se llama "Dortumil" (si preguntan), el les dará instrucciones y le as
 
 Una vez asignada la tienda de campaña, Dortumil les informa que han llegado pronto y que mañana por la mañana comenzarán las pruebas, les advierte que son individuales, y que nada sirve ir en grupo a las pruebas. 
 
-A [[Uradur Vintel]]
+A [[Uradur Vintel]] y [[Leonardo Irideluar]], les han puesto en el escuadrón numero 14, en una tienda de campaña cerca de la suya.
+
 
 
 
