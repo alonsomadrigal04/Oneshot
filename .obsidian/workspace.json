@@ -83,8 +83,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imagenes/Default_human_skeleton_friendly_looking_with_military_uniform_0_8a357b80-84a2-46d7-b8b6-8bbd1c216b1d_1.jpg",
+                "file": "Fear's Final Goblins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imagenes/Default_human_skeleton_friendly_looking_with_military_uniform_0_8a357b80-84a2-46d7-b8b6-8bbd1c216b1d_1.jpg",
+                "file": "Fear's Final Goblins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imagenes/Default_human_skeleton_friendly_looking_with_military_uniform_0_8a357b80-84a2-46d7-b8b6-8bbd1c216b1d_1.jpg"
+                "file": "Fear's Final Goblins.md"
               }
             }
           },
@@ -230,14 +229,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35b544b7a679a609",
+  "active": "99f88fdd063d39a2",
   "lastOpenFiles": [
+    "Imagenes/Default_human_skeleton_friendly_looking_with_military_uniform_0_8a357b80-84a2-46d7-b8b6-8bbd1c216b1d_1.jpg",
     "Music.md",
     "Personajes/Comandante Eterno.md",
     "Personajes/Leonardo Irideluar.md",
     "Personajes/Dalavash Marhsu.md",
     "Personajes/Uradur Vintel.md",
-    "Imagenes/Default_human_skeleton_friendly_looking_with_military_uniform_0_8a357b80-84a2-46d7-b8b6-8bbd1c216b1d_1.jpg",
     "Fear's Final Goblins.md",
     "Vertice/Jön Pargid.md",
     "Imagenes/Torre de vigilantes.png",
