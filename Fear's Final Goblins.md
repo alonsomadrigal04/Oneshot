@@ -217,7 +217,7 @@ Mapa Cuartel General:
 	![[Torre de vigilantes.png]]
 
 
-"Cuando llegais al punto indicado en "
+"Cuando llegáis al punto indicado en el pergamino, podéis ver en la lejanía una gran torre negra, la fria y aspera nieve roza gentilmente con vuestros botines. Hace una temeratura bastante baja, pero sin embargo podeis resistir el frio, ya que habeis aguantado las agudas rafagas de viuento de las montañas de Prötá d"
 
 
 
