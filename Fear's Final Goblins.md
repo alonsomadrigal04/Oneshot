@@ -269,8 +269,9 @@ Dinámica:
 	Llamada de atención: -2
 	Fuego inocente: -7
 	Falta de respeto al comandante: -15
+	Si el puntaje es +20, serán jefes de escuadrón automáticamente.
 	Si el puntaje es +15 podrán optar a ser jefes de escuadrón.
-	Si el puntaje es -20, serán reunidos con el [[Comandante Eterno]].
+	Si el puntaje es -20, serán reunidos con el [[Comandante Eterno]], para justificarse.
 	Si el puntaje es -30, serán expulsados del campamento.
 
 - "La primera es la mas sencilla de todas, consta de levantar un campamento improvisado en el menor tiempo posible"
@@ -282,4 +283,4 @@ Mapa:
 
 - "Como ultima prueba, os endentareis en grupo de escuadrón a un [[Umbraxis]], son bestias temibles y no dejéis que os toquen, JAJAJAJAJAJA"
 
-- "Perfecto sacos inútiles de escoria, cuando el sol deje de iluminar vuestro malolientes cuerpos, daremos paso a las menciones de honor y las lideres de escuadrones."
+- "Perfecto inútiles sacos de escoria, cuando el sol deje de iluminar vuestro malolientes cuerpos, daremos paso a las menciones de honor y las lideres de escuadrón. Mientras tanto limpiaros vuestras repugnantes fibras musculares, este campamento huele peor que mi cuerpo en descomposición"
