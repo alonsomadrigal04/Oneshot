@@ -5,4 +5,4 @@ Aspecto:
 
 
 Información que les cuenta en la taberna:
-	""
+	"las leyendas de Énosis perdidas hablan del 6to peligro. Se remonta a la Era 0, en Primógena, La leyenda es surgida de los propios hijos de Pröt"
