@@ -136,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "505d4ff21f937f67",
@@ -233,8 +232,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35b544b7a679a609",
+  "active": "95467957bb6da974",
   "lastOpenFiles": [
+    "Imagenes/Torre de vigilantes.png",
+    "Imagenes/psE29E.tmp",
     "Imagenes/Default_Structure_in_the_middle_of_the_snow_medieval_war_build_0_1261a6c4-1ffc-4050-b762-e845b3a1fb1d_1 1.jpg",
     "Imagenes/Default_Structure_in_the_middle_of_the_snow_medieval_war_build_0_1261a6c4-1ffc-4050-b762-e845b3a1fb1d_1.jpg",
     "Archivos/Vértice Arcano.md",
@@ -260,7 +261,6 @@
     "Imagenes/Leonardo_Diffusion_High_elf_with_fire_red_hair_in_a_dress_of_b_1.jpg",
     "Imagenes/Leonardo_Diffusion_Gang_leader_woman_fantastic_world_overcast_0.jpg",
     "Imagenes/Leonardo_Diffusion_Atop_a_frozen_mountain_an_imposing_goliath_2.jpg",
-    "Imagenes/Elf_1 1.png",
     "Vertice/Jön Pargid.md",
     "Vertice/Gwendolyn Keridell.md",
     "Uradur.md",
@@ -279,7 +279,6 @@
     "Imagenes/Leonardo_Diffusion_Imagine_a_satyr_with_a_small_youthful_body_1.jpg.opdownload",
     "Imagenes",
     "Sitios",
-    "Vertice",
-    "Archivos"
+    "Vertice"
   ]
 }
