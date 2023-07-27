@@ -255,3 +255,7 @@ Un esqueleto perfectamente parado sobre si mismo, y dé repente podéis ver como
 <font color="#548dd4">"Perfecto cachos de mierda, estáis en este excluido y decrepito lugar para demostrar la valía que habéis prometido tener. Todo aquel que espere bondad será automáticamente expulsado con la peor de las humillaciones posibles, espero que hayáis traído algo de energía de la noche de lujuria de ayer panda de gandules come mierda. Las pruebas comienzan en unos escasos 10 minutos, si no podéis ni siquiera asistir a una cita tan importante en un tiempo tan largo, será mejor que os vayáis de una puta vez, aquí no servimos a nadie, vosotros sois los que queréis tener asquerosa fama, espero que vuestra ambición y prepotencia sea igual de grande como vuestras habilidades. Si no estáis aquí en estos 10 minutos, ya os podéis ir yendo a follar con cualquier fulana, que cojones hacéis que no os estáis preparándoos una puta vez!!!"</font>
 
 Después de tan agresivo discurso, su cabeza volvió a girar y se volvió del mismo tono oseo y la expresión inerte de un esqueleto, pero menos inquietante por su agresividad.
+
+### Las pruebas
+---
+"La primera es la mas sencilla de todas, teneis que preparar u"
