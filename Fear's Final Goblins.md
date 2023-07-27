@@ -210,8 +210,12 @@ Mientras descansan un soldado sin querer a dado con su puesto en medio del bosqu
 
 # <font color="#ffc000">LAS PRUEBAS</font>
 ---
-Cuartel General:
+Aspecto Cuartel General:
 	![[Default_Structure_in_the_middle_of_the_snow_medieval_war_build_0_1261a6c4-1ffc-4050-b762-e845b3a1fb1d_1 1.jpg]]
+
+Mapa Cuartel General:
+	![[Torre de vigilantes.png]]
+
 
 
 
