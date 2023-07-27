@@ -217,7 +217,7 @@ Mapa Cuartel General:
 	![[Torre de vigilantes.png]]
 
 
-
+"Cuando llegais al punto indicado en "
 
 
 
