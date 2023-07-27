@@ -284,3 +284,9 @@ Mapa:
 - "Como ultima prueba, os endentareis en grupo de escuadrón a un [[Umbraxis]], son bestias temibles y no dejéis que os toquen, JAJAJAJAJAJA"
 
 - "Perfecto inútiles sacos de escoria, cuando el sol deje de iluminar vuestro malolientes cuerpos, daremos paso a las menciones de honor y las lideres de escuadrón. Mientras tanto limpiaros vuestras repugnantes fibras musculares, este campamento huele peor que mi cuerpo en descomposición"
+
+# <font color="#ffc000">Dinámica de Ejecución</font>
+---
+Si son lideres de escuadrón podrán elegir la ruta y su escuadrón, podrán elegir a 3 personas mas para que les acompañen. Se les otorgará una importante misión hacia Crysalia.
+
+Si no son miembros de escuadron, [[Leonardo Irideluar]]
