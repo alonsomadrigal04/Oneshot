@@ -258,6 +258,15 @@ Después de tan agresivo discurso, su cabeza volvió a girar y se volvió del mi
 
 ### Las pruebas
 ---
+Dinámica:
+	Buena tirada: +3
+	Buena idea: +5
+	Mejor ejecución: +4
+	Mejor narrativa: +7
+	Mala tirada: -2
+	Heridas en batalla: -1
+	
+
 - "La primera es la mas sencilla de todas, consta de levantar un campamento improvisado en el menor tiempo posible"
 - "Tenéis que utilizar vuestra mayor maestría con vuestras mejores armas para asesinar a este muñeco de prueba"
 - "Bien ahora que ya habéis hecho suficiente el ridículo, quiero que recorráis esta ruta en el menor tiempo posible, y si me traéis algún obsequio, estaré mas contento con el que me lo traiga. Me activaría la glándulas sudoríparas de mis miembros si tuviera lo que me traigáis"
@@ -267,4 +276,4 @@ Mapa:
 
 - "Como ultima prueba, os endentareis en grupo de escuadrón a un [[Umbraxis]], son bestias temibles y no dejéis que os toquen, JAJAJAJAJAJA"
 
-- "Perfecto sacos inútiles de escoria, cuando el sol deje de iluminar vuestro malolientes cuerpos, daremos pas"
+- "Perfecto sacos inútiles de escoria, cuando el sol deje de iluminar vuestro malolientes cuerpos, daremos paso a las menciones de honor y las lideres de escuadrones."
