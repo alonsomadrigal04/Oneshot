@@ -236,9 +236,10 @@ Dependiendo de su Karma;
 ### <font color="#ffc000">Fiesta en una taberna</font>
 ---
 
-Si van a la taberna conocerán a Endorrin, el [[Edorrin, Anciano viajero]]. 
+Si van a la taberna conocerán a [[Edorrin, Anciano viajero]]. 
 - Por curiosidad se acerca al grupo y les empieza a contar la historia de su pueblo. Justo antes de que pudiera acabar la historia llegan unos guardias de Ventur y obliga a retirarse.
 
 ### <font color="#ffc000">Descanso hasta la mañana</font>
 ---
-
+Si deciden no ir no conocerán aun a [[Edorrin, Anciano viajero]].
+- Se quedarán con [[Leonardo Irideluar]], el cual prefería no ir a la taberna, no le gustan los lugares de festejos, los considera un delito para el conocimiento. Solo comentara que conoce ciertos rumores sobre el 6to peligro.
