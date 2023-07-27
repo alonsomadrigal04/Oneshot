@@ -258,4 +258,5 @@ Después de tan agresivo discurso, su cabeza volvió a girar y se volvió del mi
 
 ### Las pruebas
 ---
-"La primera es la mas sencilla de todas, teneis que preparar u"
+- "La primera es la mas sencilla de todas, consta de levantar un campamento improvisado en el menor tiempo posible"
+- "Teneis que utilizar vuestra mayor maestría con vuestas mejores armas para asesinar a este muñeco de prueba"
