@@ -136,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "505d4ff21f937f67",
@@ -217,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,7 +233,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "95467957bb6da974",
+  "active": "35b544b7a679a609",
   "lastOpenFiles": [
     "Imagenes/Default_Structure_in_the_middle_of_the_snow_medieval_war_build_0_1261a6c4-1ffc-4050-b762-e845b3a1fb1d_1 1.jpg",
     "Imagenes/Default_Structure_in_the_middle_of_the_snow_medieval_war_build_0_1261a6c4-1ffc-4050-b762-e845b3a1fb1d_1.jpg",
