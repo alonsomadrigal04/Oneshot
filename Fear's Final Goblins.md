@@ -221,7 +221,7 @@ Mapa Cuartel General:
 
 Mientras os vais acercando, un medio elfo con un traje marrón y unas gafas circulares se acerca al grupo. Y podéis ver en su cara un gesto de extrañeza y sorpresa, pero ignorando ese sentimiento firme os pregunta. "¡Identificaros!". "
 
-El Guarda se llama "Dortumil" (si preguntan), el les dará instrucciones y le asigaran un al grupo el nombre de "escuadron numero 13"
+El Guarda se llama "Dortumil" (si preguntan), el les dará instrucciones y le asignaran un al grupo el nombre de "escuadrón numero 13". 
 
 
 
