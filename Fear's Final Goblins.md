@@ -287,6 +287,10 @@ Mapa:
 
 # <font color="#ffc000">Dinámica de Ejecución</font>
 ---
-Si son lideres de escuadrón podrán elegir la ruta y su escuadrón, podrán elegir a 3 personas mas para que les acompañen. Se les otorgará una importante misión hacia Crysalia.
+Si son lideres de escuadrón podrán elegir la ruta y su escuadrón, podrán elegir a 3 personas mas para que les acompañen. Se les otorgará una importante misión hacia [[Crysalia]].
 
-Si no son miembros de escuadron, [[Leonardo Irideluar]]
+Si no son miembros de escuadrón, [[Leonardo Irideluar]], liderará el grupo, dando a efectos prácticos la misma aventura.
+
+Si son expulsados del campamento, [[Uradur Vintel]], también es expulsado junto a ellos por "imprudencia mágica". Y podrán seguir la pista de [[Crysalia]].
+
+## De camino hacia el corazon de C
