@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fear's Final Goblins.md",
+                "file": "Vertice/Ka Mach Eriskal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fear's Final Goblins.md",
+                "file": "Vertice/Ka Mach Eriskal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fear's Final Goblins.md",
+                "file": "Vertice/Ka Mach Eriskal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fear's Final Goblins.md"
+                "file": "Vertice/Ka Mach Eriskal.md"
               }
             }
           },
@@ -166,8 +166,8 @@
   },
   "active": "99f88fdd063d39a2",
   "lastOpenFiles": [
-    "Archivos/Crysalia.md",
     "Fear's Final Goblins.md",
+    "Archivos/Crysalia.md",
     "Imagenes/Hit_map.jpg",
     "Personajes/Comandante Eterno.md",
     "Personajes/Leonardo Irideluar.md",
