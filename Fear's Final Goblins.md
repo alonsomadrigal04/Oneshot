@@ -293,4 +293,5 @@ Si no son miembros de escuadrón, [[Leonardo Irideluar]], liderará el grupo, da
 
 Si son expulsados del campamento, [[Uradur Vintel]], también es expulsado junto a ellos por "imprudencia mágica". Y podrán seguir la pista de [[Crysalia]].
 
-## De camino hacia el corazon de C
+## <font color="#ffc000">De camino hacia el corazón de Crysalia</font>
+---
